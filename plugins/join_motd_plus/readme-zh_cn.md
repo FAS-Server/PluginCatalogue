@@ -8,12 +8,13 @@
 
 - 插件 ID: `join_motd_plus`
 - 插件名: joinMOTD++
-- 版本: 3.1.3
+- 版本: None
   - 元数据版本: 3.1.3
-  - 发布版本: N/A
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Alex3236](https://github.com/alex3236)
 - 仓库: https://github.com/alex3236/joinMOTD_Plus
+- 仓库插件页: https://github.com/alex3236/joinMOTD_Plus/tree/main/src
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 在玩家进入服务器时展示内容。（特色功能++）
 

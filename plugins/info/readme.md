@@ -8,12 +8,13 @@
 
 - Plugin ID: `info`
 - Plugin Name: Info
-- Version: 0.1.0
-  - Metadata version: 0.1.0
-  - Release version: 0.1.0
-- Total downloads: 2021
+- Version: None
+  - Metadata version: 0.2.0
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server info
 
@@ -27,6 +28,7 @@
 | Python package | Requirement |
 | --- | --- |
 | [psutil](https://pypi.org/project/psutil) |  |
+| [py-cpuinfo](https://pypi.org/project/py-cpuinfo) |  |
 
 ### Introduction
 
@@ -68,6 +70,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.1.0) | 0.1.0 | 2022/06/30 05:59:40 | 2.1KB | 322 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.1.0/Info-v0.1.0.mcdr) |
-| [Info-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1699 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 

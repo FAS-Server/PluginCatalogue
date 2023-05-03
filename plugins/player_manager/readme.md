@@ -8,12 +8,13 @@
 
 - Plugin ID: `player_manager`
 - Plugin Name: Player Manager
-- Version: 1.2.1
+- Version: None
   - Metadata version: 1.2.1
-  - Release version: 1.2.1
-- Total downloads: 34
+  - Release version: None
+- Total downloads: 0
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
+- Repository plugin page: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: A MCDReforged plugin to help with managing fake players
 
@@ -43,6 +44,4 @@ Database-based Carpet fake player management
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1) | 1.2.1 | 2022/07/08 07:01:25 | 5.51KB | 34 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr) |
-| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.0) | 1.2.0 | 2022/07/08 00:56:25 | 5.38KB | 0 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.0/PlayerManager.mcdr) |
 

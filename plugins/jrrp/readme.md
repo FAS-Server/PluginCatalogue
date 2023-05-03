@@ -8,12 +8,13 @@
 
 - Plugin ID: `jrrp`
 - Plugin Name: Jrrp
-- Version: 3.0.0
+- Version: None
   - Metadata version: 3.0.0
-  - Release version: 3.0.0
-- Total downloads: 54
+  - Release version: None
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/jrrp
+- Repository plugin page: https://github.com/HuajiMURsMC/jrrp/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: 《今日人品》
 
@@ -40,5 +41,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Jrrp-v3.0.0.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/3.0.0) | 3.0.0 | 2022/08/28 11:29:45 | 13.98KB | 54 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/3.0.0/Jrrp-v3.0.0.mcdr) |
 

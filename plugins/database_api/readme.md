@@ -8,12 +8,13 @@
 
 - Plugin ID: `database_api`
 - Plugin Name: DatabaseAPI
-- Version: 0.1.1
+- Version: None
   - Metadata version: 0.1.1
-  - Release version: 0.1.1
-- Total downloads: 58
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Database API to access database
 
@@ -71,6 +72,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DatabaseAPI-v0.1.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.1) | 0.1.1 | 2022/06/30 06:31:33 | 1.25KB | 55 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.1/DatabaseAPI-v0.1.1.mcdr) |
-| [DatabaseAPI-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.0) | 0.1.0 | 2022/06/30 04:17:28 | 1.13KB | 3 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.0/DatabaseAPI-v0.1.0.mcdr) |
 

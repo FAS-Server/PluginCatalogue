@@ -8,12 +8,13 @@
 
 - Plugin ID: `renewability`
 - Plugin Name: Renewability
-- Version: 1.1.0
+- Version: None
   - Metadata version: 1.1.0
-  - Release version: 1.1.0
-- Total downloads: 1151
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
+- Repository plugin page: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin that allows players to clone non-renewable items
 
@@ -38,5 +39,4 @@ Allow players to clone non-renewable items.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 1151 | [Download](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
 

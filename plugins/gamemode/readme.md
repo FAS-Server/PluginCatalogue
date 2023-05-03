@@ -8,12 +8,13 @@
 
 - Plugin ID: `gamemode`
 - Plugin Name: Gamemode
-- Version: 0.1.0
-  - Metadata version: 0.1.1
-  - Release version: 0.1.0
-- Total downloads: 246
+- Version: None
+  - Metadata version: 1.0.1
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Change to spectator mode for observe, teleport to origin position when change back to survival mode
 
@@ -82,5 +83,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Gamemode-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0) | 0.1.0 | 2022/06/30 09:29:07 | 3.02KB | 246 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr) |
 

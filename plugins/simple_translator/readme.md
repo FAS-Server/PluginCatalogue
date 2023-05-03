@@ -8,12 +8,13 @@
 
 - Plugin ID: `simple_translator`
 - Plugin Name: SimpleTranslator
-- Version: 1.3.1
+- Version: None
   - Metadata version: 1.3.1
-  - Release version: 1.3.1
-- Total downloads: 41
+  - Release version: None
+- Total downloads: 0
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/simple-translator
+- Repository plugin page: https://github.com/skuzow/simple-translator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: In-game translator
 
@@ -40,6 +41,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleTranslator-v1.3.1.mcdr](https://github.com/skuzow/simple-translator/releases/tag/v1.3.1) | 1.3.1 | 2022/07/12 11:30:33 | 13.5KB | 37 | [Download](https://github.com/skuzow/simple-translator/releases/download/v1.3.1/SimpleTranslator-v1.3.1.mcdr) |
-| [SimpleTranslator-v1.3.0.mcdr](https://github.com/skuzow/simple-translator/releases/tag/v1.3.0) | 1.3.0 | 2022/07/02 21:09:53 | 13.5KB | 4 | [Download](https://github.com/skuzow/simple-translator/releases/download/v1.3.0/SimpleTranslator-v1.3.0.mcdr) |
 

@@ -8,12 +8,13 @@
 
 - Plugin ID: `offline_whitelist`
 - Plugin Name: OfflineWhitelist
-- Version: 0.1.4
+- Version: None
   - Metadata version: 0.1.4
-  - Release version: 0.1.4
-- Total downloads: 36
+  - Release version: None
+- Total downloads: 0
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/offline-whitelist
+- Repository plugin page: https://github.com/skuzow/offline-whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Offline whitelist helper
 
@@ -39,5 +40,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OfflineWhitelist-v0.1.4.mcdr](https://github.com/skuzow/offline-whitelist/releases/tag/v0.1.4) | 0.1.4 | 2022/07/11 13:07:56 | 16.03KB | 36 | [Download](https://github.com/skuzow/offline-whitelist/releases/download/v0.1.4/OfflineWhitelist-v0.1.4.mcdr) |
 

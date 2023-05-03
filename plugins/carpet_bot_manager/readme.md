@@ -8,12 +8,13 @@
 
 - Plugin ID: `carpet_bot_manager`
 - Plugin Name: Carpet Bot Manager
-- Version: 0.3.0
+- Version: None
   - Metadata version: 0.3.0
-  - Release version: 0.3.0
-- Total downloads: 1585
+  - Release version: None
+- Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
+- Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A carpet bot manage plugin, able to spawn bot and make it execute actions
 
@@ -40,5 +41,4 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1585 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 

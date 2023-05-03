@@ -8,12 +8,13 @@
 
 - Plugin ID: `cpu_temp`
 - Plugin Name: cpu_temp
-- Version: 3.0.2
+- Version: None
   - Metadata version: 3.0.2
-  - Release version: 3.0.2
-- Total downloads: 210
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
+- Repository plugin page: https://github.com/R1ckyH/cpu_temp/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A plugin to check cpu temp regularly.
 
@@ -41,5 +42,4 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 210 | [Download](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
 

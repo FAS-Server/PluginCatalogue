@@ -8,12 +8,13 @@
 
 - Plugin ID: `aluminum`
 - Plugin Name: Aluminum
-- Version: 0.1.3
-  - Metadata version: 0.1.3
-  - Release version: N/A
+- Version: None
+  - Metadata version: 0.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/Aluminum
+- Repository plugin page: https://github.com/MCDReforged/Aluminum/tree/master/src
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A MCDReforged plugin manager.
 

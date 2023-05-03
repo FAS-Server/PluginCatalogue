@@ -8,12 +8,13 @@
 
 - 插件 ID: `gamemode`
 - 插件名: Gamemode
-- 版本: 0.1.0
-  - 元数据版本: 0.1.1
-  - 发布版本: 0.1.0
-- 总下载量: 246
+- 版本: None
+  - 元数据版本: 1.0.1
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 旁观者模式以旁观，返回生存时传送回原坐标
 
@@ -82,5 +83,4 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Gamemode-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0) | 0.1.0 | 2022/06/30 09:29:07 | 3.02KB | 246 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr) |
 

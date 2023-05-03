@@ -8,12 +8,13 @@
 
 - 插件 ID: `wiki_request`
 - 插件名: Wiki Request
-- 版本: 3.0
+- 版本: None
   - 元数据版本: 3.0
-  - 发布版本: 3.0
-- 总下载量: 264
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [DrLee_lihr](https://github.com/DrLee-lihr)
 - 仓库: https://github.com/DrLee-lihr/WikiRequest
+- 仓库插件页: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 一个用来查MediaWiki的插件
 
@@ -39,5 +40,4 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 264 | [下载](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
 

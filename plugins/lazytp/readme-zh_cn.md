@@ -8,12 +8,13 @@
 
 - 插件 ID: `lazytp`
 - 插件名: Lazy Teleport
-- 版本: 2.0.1
+- 版本: None
   - 元数据版本: 2.0.1
-  - 发布版本: 2.0.1
-- 总下载量: 2718
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/Lazy-Bing-Server/lazytp
+- 仓库插件页: https://github.com/Lazy-Bing-Server/lazytp/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
 - 描述: 维度间的快速折跃通道
 
@@ -41,6 +42,4 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LazyTeleport-v2.0.1.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 16:14:43 | 19.55KB | 1402 | [下载](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr) |
-| [LazyTeleport-v2.0.0.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.0) | 2.0.0 | 2021/08/27 16:04:24 | 7.38KB | 1316 | [下载](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.0/LazyTeleport-v2.0.0.mcdr) |
 

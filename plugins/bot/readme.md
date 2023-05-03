@@ -8,12 +8,13 @@
 
 - Plugin ID: `bot`
 - Plugin Name: Bot
-- Version: 1.0.3
-  - Metadata version: 1.0.2
-  - Release version: 1.0.3
-- Total downloads: 485
+- Version: None
+  - Metadata version: 1.0.6
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: The best carpet bot manager!
 
@@ -21,7 +22,8 @@
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.5 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.6.0 |
+| [dict_command_registration](/plugins/dict_command_registration/readme.md) | ^1.0.0 |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | ^1.4 |
 | [more_command_nodes](/plugins/more_command_nodes/readme.md) | ^1.1.0 |
 
@@ -192,9 +194,4 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bot-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.3) | 1.0.3 | 2022/10/03 22:20:24 | 13.07KB | 131 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.3/Bot-v1.0.2.mcdr) |
-| [Bot-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.2) | 1.0.2 | 2022/07/22 02:16:19 | 13.06KB | 261 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.2/Bot-v1.0.2.mcdr) |
-| [Bot-v1.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.1) | 1.0.1 | 2022/07/21 05:06:17 | 13.06KB | 17 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.1/Bot-v1.0.1.mcdr) |
-| [Bot-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.0) | 1.0.0 | 2022/07/21 03:53:18 | 13.05KB | 9 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.0/Bot-v1.0.0.mcdr) |
-| [Bot-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v0.1.0) | 0.1.0 | 2022/06/30 12:10:23 | 1.97KB | 67 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v0.1.0/Bot-v0.1.0.mcdr) |
 

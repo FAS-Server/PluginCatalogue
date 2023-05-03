@@ -8,12 +8,13 @@
 
 - Plugin ID: `multi_whitelist`
 - Plugin Name: multi_whitelist
-- Version: 3.0.0
+- Version: None
   - Metadata version: 3.0.0
-  - Release version: 3.0.0
-- Total downloads: 171
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/multi_whitelist
+- Repository plugin page: https://github.com/R1ckyH/multi_whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin can control whitelist with multi servers.
 
@@ -39,5 +40,4 @@ A whitelist plugin with multiple server
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [multi_whitelist-3.0.0.mcdr](https://github.com/R1ckyH/multi_whitelist/releases/tag/v3.0.0) | 3.0.0 | 2021/10/26 16:12:21 | 16.99KB | 171 | [Download](https://github.com/R1ckyH/multi_whitelist/releases/download/v3.0.0/multi_whitelist-3.0.0.mcdr) |
 

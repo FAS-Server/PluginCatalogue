@@ -8,12 +8,13 @@
 
 - Plugin ID: `world_copier`
 - Plugin Name: World Copier
-- Version: 0.1.0
+- Version: None
   - Metadata version: 0.1.0
-  - Release version: 0.1.0
-- Total downloads: 96
+  - Release version: None
+- Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/WorldCopier
+- Repository plugin page: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Sync your mirror server with main server.
 
@@ -37,5 +38,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 96 | [Download](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
 

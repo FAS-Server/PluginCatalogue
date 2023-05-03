@@ -12,12 +12,13 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 
 - Plugin ID: `advanced_calculator`
 - Plugin Name: AdvancedCalculator
-- Version: 0.3.0
-  - Metadata version: 0.3.0
-  - Release version: 0.3.0
-- Total downloads: 357
+- Version: None
+  - Metadata version: 0.3.1
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Provides multiple convenient in-game calculations
 
@@ -39,12 +40,12 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 
 ## 使用
 
-您可以使用 `=<expression>` 直接计算表达式，或使用 `=<count>` 将物品数转换堆叠数。
+您可以使用 `=<expression>` 直接计算表达式，或使用 `==<count/expression>` 将物品数转换堆叠数。
 
 | 指令 | 用途 | 示例 | 结果 |
 | - | - | - | - |
 | !!calc \<expression> | 计算表达式 | !!calc 1+1 | 1+1=2 |
-| !!calc item \<count> | 物品数转换堆叠数 | !!calc item 1794 | 1794个物品为1盒2组3个 |
+| !!calc item \<count/expression> | 物品数转换堆叠数 | !!calc item 1794 | 1794个物品为1盒2组3个 |
 | !!calc item \<box> \<stack> \<single> | 堆叠数转换物品数 | !!calc item 1 10 32 | 1盒10组32个为2400个物品 |
 | !!calc color \<red> \<green> \<blue> | 10进制RGB转16进制 | !!calc color 255 0 255 | (255, 0, 255) -> #FF00FF |
 | !!calc color \<#HEX> | 16十进制RGB转10进制 | !!calc color #00FF00 | #00FF00 -> (0, 255, 0) |
@@ -55,9 +56,6 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AdvancedCalculator-v0.3.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.0) | 0.3.0 | 2022/10/21 20:03:33 | 2.42KB | 63 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.0/AdvancedCalculator-v0.3.0.mcdr) |
-| [AdvancedCalculator-v0.2.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1) | 0.2.1 | 2022/07/21 13:20:06 | 2.38KB | 141 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.1/AdvancedCalculator-v0.2.1.mcdr) |
-| [AdvancedCalculator-v0.2.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.0) | 0.2.0 | 2022/07/18 11:47:23 | 2.27KB | 23 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.0/AdvancedCalculator-v0.2.0.mcdr) |
 
 ## advanced_whitelist_r
 
@@ -65,12 +63,13 @@ Use `ctrl-f` to performance an in-page search, for what you are interested in
 
 - Plugin ID: `advanced_whitelist_r`
 - Plugin Name: AdvancedWhitelistR
-- Version: 1.0.2
-  - Metadata version: 1.0.2
-  - Release version: 1.0.2
-- Total downloads: 183
-- Authors: [noionion](https://github.com/2X-ercha)
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
+- Total downloads: 0
+- Authors: [noionion](https://github.com/2X-ercha), [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/AdvancedWhitelistR
+- Repository plugin page: https://github.com/EMUnion/AdvancedWhitelistR/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: For outline-model Whitelist
 
@@ -95,8 +94,43 @@ Offline server whitelist management
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AdvancedWhitelistR-v1.0.2.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.2) | 1.0.2 | 2022/01/24 15:38:16 | 3.5KB | 178 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.2/AdvancedWhitelistR-v1.0.2.mcdr) |
-| [AdvancedWhitelistR-v1.0.1.mcdr](https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.1) | 1.0.1 | 2022/01/24 11:46:47 | 3.5KB | 5 | [Download](https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.1/AdvancedWhitelistR-v1.0.1.mcdr) |
+
+## allow_suicide
+
+### Basic Information
+
+- Plugin ID: `allow_suicide`
+- Plugin Name: allow_suicide
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [JAs0n](https://github.com/JAs0n319)
+- Repository: https://github.com/JAs0n319/allow_suicide
+- Repository plugin page: https://github.com/JAs0n319/allow_suicide/tree/master
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: allow player suicide with no op
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+Allow player suicide without op
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## aluminum
 
@@ -104,12 +138,13 @@ Offline server whitelist management
 
 - Plugin ID: `aluminum`
 - Plugin Name: Aluminum
-- Version: 0.1.3
-  - Metadata version: 0.1.3
-  - Release version: N/A
+- Version: None
+  - Metadata version: 0.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/Aluminum
+- Repository plugin page: https://github.com/MCDReforged/Aluminum/tree/master/src
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A MCDReforged plugin manager.
 
@@ -145,12 +180,13 @@ A MCDR plugin manager.
 
 - Plugin ID: `auto_plugin_reloader`
 - Plugin Name: Auto Plugin Reloader
-- Version: 1.1.3
+- Version: None
   - Metadata version: 1.1.3
-  - Release version: 1.1.3
-- Total downloads: 4456
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
+- Repository plugin page: https://github.com/TISUnion/AutoPluginReloader/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Automatically reload plugins when file changes
 
@@ -177,9 +213,6 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 794 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
-| [AutoPluginReloader-v1.1.2.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.2) | 1.1.2 | 2021/09/30 10:02:54 | 17.59KB | 102 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.2/AutoPluginReloader-v1.1.2.mcdr) |
-| [AutoPluginReloader-v1.1.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.1) | 1.1.1 | 2021/09/12 10:20:17 | 17.47KB | 886 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.1/AutoPluginReloader-v1.1.1.mcdr) |
 
 ## beep
 
@@ -187,12 +220,13 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 - Plugin ID: `beep`
 - Plugin Name: Beep
-- Version: 1.1.0
+- Version: None
   - Metadata version: 1.1.0
-  - Release version: 1.1.0
-- Total downloads: 3796
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
+- Repository plugin page: https://github.com/TISUnion/Beep/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping
 
@@ -217,8 +251,6 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 2469 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
-| [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1327 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## bingo
 
@@ -226,12 +258,13 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 - Plugin ID: `bingo`
 - Plugin Name: Bingo
-- Version: 0.0.2
-  - Metadata version: 0.0.2
-  - Release version: 0.0.2
-- Total downloads: 68
+- Version: None
+  - Metadata version: 0.0.3
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Useful tool for Bingo game
 
@@ -264,8 +297,6 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bingo-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.2) | 0.0.2 | 2022/06/16 14:14:47 | 1.31KB | 51 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.2/Bingo-v0.0.2.mcdr) |
-| [Bingo-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bingo-0.0.1) | 0.0.1 | 2022/06/16 12:57:06 | 1.31KB | 17 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bingo-0.0.1/Bingo-v0.0.1.mcdr) |
 
 ## bot
 
@@ -273,12 +304,13 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 - Plugin ID: `bot`
 - Plugin Name: Bot
-- Version: 1.0.3
-  - Metadata version: 1.0.2
-  - Release version: 1.0.3
-- Total downloads: 485
+- Version: None
+  - Metadata version: 1.0.6
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: The best carpet bot manager!
 
@@ -286,7 +318,8 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.5 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.6.0 |
+| [dict_command_registration](/plugins/dict_command_registration/readme.md) | ^1.0.0 |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | ^1.4 |
 | [more_command_nodes](/plugins/more_command_nodes/readme.md) | ^1.1.0 |
 
@@ -457,9 +490,6 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Bot-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.3) | 1.0.3 | 2022/10/03 22:20:24 | 13.07KB | 131 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.3/Bot-v1.0.2.mcdr) |
-| [Bot-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.2) | 1.0.2 | 2022/07/22 02:16:19 | 13.06KB | 261 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.2/Bot-v1.0.2.mcdr) |
-| [Bot-v1.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/bot-v1.0.1) | 1.0.1 | 2022/07/21 05:06:17 | 13.06KB | 17 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/bot-v1.0.1/Bot-v1.0.1.mcdr) |
 
 ## bot_plugin
 
@@ -467,12 +497,13 @@ flowchart LR
 
 - Plugin ID: `bot_plugin`
 - Plugin Name: Bot Plugin
-- Version: 1.0.0
+- Version: None
   - Metadata version: 1.0.0
-  - Release version: 1.0.0
-- Total downloads: 301
+  - Release version: None
+- Total downloads: 0
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
 - Repository: https://github.com/DancingSnow0517/Bot_Manager
+- Repository plugin page: https://github.com/DancingSnow0517/Bot_Manager/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md)
 - Description: 管理 carpet 机器人
 
@@ -499,7 +530,6 @@ flowchart LR
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [BotPlugin-v1.0.0.mcdr](https://github.com/DancingSnow0517/Bot_Manager/releases/tag/1.0.0) | 1.0.0 | 2022/01/09 04:38:06 | 17.24KB | 301 | [Download](https://github.com/DancingSnow0517/Bot_Manager/releases/download/1.0.0/BotPlugin-v1.0.0.mcdr) |
 
 ## carpet_bot_manager
 
@@ -507,12 +537,13 @@ flowchart LR
 
 - Plugin ID: `carpet_bot_manager`
 - Plugin Name: Carpet Bot Manager
-- Version: 0.3.0
+- Version: None
   - Metadata version: 0.3.0
-  - Release version: 0.3.0
-- Total downloads: 1585
+  - Release version: None
+- Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
+- Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A carpet bot manage plugin, able to spawn bot and make it execute actions
 
@@ -539,7 +570,6 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1585 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
 ## carpet_tick
 
@@ -547,12 +577,13 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 - Plugin ID: `carpet_tick`
 - Plugin Name: Carpet Tick
-- Version: 1.1.1
+- Version: None
   - Metadata version: 1.1.1
-  - Release version: 1.1.1
-- Total downloads: 139
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/CarpetTick
+- Repository plugin page: https://github.com/Ivan-1F/CarpetTick/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server status using carpet /tick command
 
@@ -577,9 +608,6 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetTick-v1.1.1.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.1) | 1.1.1 | 2022/08/27 16:04:57 | 3.46KB | 42 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.1/CarpetTick-v1.1.1.mcdr) |
-| [CarpetTick-v1.1.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.1.0) | 1.1.0 | 2022/04/07 09:28:18 | 3.48KB | 85 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.1.0/CarpetTick-v1.1.0.mcdr) |
-| [CarpetTick-v1.0.0.mcdr](https://github.com/Ivan-1F/CarpetTick/releases/tag/v1.0.0) | 1.0.0 | 2022/03/11 14:50:05 | 3.35KB | 12 | [Download](https://github.com/Ivan-1F/CarpetTick/releases/download/v1.0.0/CarpetTick-v1.0.0.mcdr) |
 
 ## carpetbotlist
 
@@ -587,12 +615,13 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 - Plugin ID: `carpetbotlist`
 - Plugin Name: CarpetBotList
-- Version: 2.1.1
+- Version: None
   - Metadata version: 2.1.1
-  - Release version: 2.1.1
-- Total downloads: 4326
+  - Release version: None
+- Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
+- Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Help you manage your carpet fake player
 
@@ -618,9 +647,6 @@ Help you manage your carpet fake player
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CarpetBotList-v2.1.1.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.1) | 2.1.1 | 2021/08/23 06:17:05 | 1.89KB | 1688 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.1/CarpetBotList-v2.1.1.mcdr) |
-| [CarpetBotList-v2.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0) | 2.1.0 | 2021/08/16 11:33:40 | 4.08KB | 1316 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.0/CarpetBotList-v2.1.0.mcdr) |
-| [CarpetBotList-v2.0.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0) | 2.0.0 | 2021/08/12 07:45:32 | 3.6KB | 1322 | [Download](https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.0.0/CarpetBotList-v2.0.0.mcdr) |
 
 ## cato
 
@@ -628,12 +654,13 @@ Help you manage your carpet fake player
 
 - Plugin ID: `cato`
 - Plugin Name: Cato Plugin
-- Version: 1.1.0
+- Version: None
   - Metadata version: 1.1.0
-  - Release version: 1.1.0
-- Total downloads: 439
+  - Release version: None
+- Total downloads: 0
 - Authors: [Harry-zklcdc](https://github.com/Harry-zklcdc)
 - Repository: https://github.com/Harry-zklcdc/MCDR-Cato
+- Repository plugin page: https://github.com/Harry-zklcdc/MCDR-Cato/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Plugin Cato
 
@@ -668,8 +695,6 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Cato-v1.1.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.1.0) | 1.1.0 | 2021/10/31 08:31:03 | 2.9KB | 406 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.1.0/Cato-v1.1.0.mcdr) |
-| [Cato-v1.0.0.mcdr](https://github.com/Harry-zklcdc/MCDR-Cato/releases/tag/cato-v1.0.0) | 1.0.0 | 2021/10/14 12:15:08 | 2.93KB | 33 | [Download](https://github.com/Harry-zklcdc/MCDR-Cato/releases/download/cato-v1.0.0/Cato-v1.0.0.mcdr) |
 
 ## chatbridge
 
@@ -677,12 +702,13 @@ When the server starts, it automatically uses Cato (P2P connection tool) for por
 
 - Plugin ID: `chatbridge`
 - Plugin Name: ChatBridge v2 for MCDR
-- Version: 2.3.0
-  - Metadata version: 2.3.0
-  - Release version: 2.3.0
-- Total downloads: 1108
+- Version: None
+  - Metadata version: 2.5.1
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/ChatBridge
+- Repository plugin page: https://github.com/TISUnion/ChatBridge/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Broadcast chats between Minecraft servers and more
 
@@ -710,9 +736,6 @@ Chatbridge v2
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.3.0) | 2.3.0 | 2022/09/10 10:05:24 | 40.62KB | 248 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.3.0/ChatBridge.pyz) |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.2.0) | 2.2.0 | 2022/03/10 06:23:41 | 40.57KB | 445 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.2.0/ChatBridge.pyz) |
-| [ChatBridge.pyz](https://github.com/TISUnion/ChatBridge/releases/tag/v2.1.1) | 2.1.1 | 2022/03/05 06:56:57 | 39.94KB | 18 | [Download](https://github.com/TISUnion/ChatBridge/releases/download/v2.1.1/ChatBridge.pyz) |
 
 ## chatbridgereforged_mc
 
@@ -720,12 +743,13 @@ Chatbridge v2
 
 - Plugin ID: `chatbridgereforged_mc`
 - Plugin Name: ChatBridgeReforged_MC
-- Version: 0.2.6
-  - Metadata version: 0.2.6-dev031
-  - Release version: 0.2.6
-- Total downloads: 32
+- Version: None
+  - Metadata version: 0.2.7-dev032
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/ChatBridgeReforged
+- Repository plugin page: https://github.com/R1ckyH/ChatBridgeReforged/tree/master/./ChatBridgeReforged_MC
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).
 
@@ -752,9 +776,6 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.2.6) | 0.2.6 | 2022/11/11 04:10:58 | 49.35KB | 8 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.2.6/ChatBridgeReforged_MC.pyz) |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.1.1) | 0.1.1 | 2022/03/04 06:12:36 | 46.96KB | 16 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.1.1/ChatBridgeReforged_MC.pyz) |
-| [ChatBridgeReforged_MC.pyz](https://github.com/R1ckyH/ChatBridgeReforged/releases/tag/0.0.2) | 0.0.2 | 2022/01/15 16:33:44 | 44.9KB | 8 | [Download](https://github.com/R1ckyH/ChatBridgeReforged/releases/download/0.0.2/ChatBridgeReforged_MC.pyz) |
 
 ## colored_chat
 
@@ -762,12 +783,13 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 - Plugin ID: `colored_chat`
 - Plugin Name: ColoredChat
-- Version: 0.0.2
-  - Metadata version: 0.0.2
-  - Release version: 0.0.2
-- Total downloads: 1600
+- Version: None
+  - Metadata version: 0.0.3
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/.archived/ColoredChat
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Support formatting codes for vanilla
 
@@ -809,7 +831,63 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ColoredChat-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/colored_chat-v0.0.2) | 0.0.2 | 2021/08/23 10:20:29 | 1.54KB | 1600 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/colored_chat-v0.0.2/ColoredChat-v0.0.2.mcdr) |
+
+## command_exporter
+
+### Basic Information
+
+- Plugin ID: `command_exporter`
+- Plugin Name: MCDR Command Exporter
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [DancingSnow](https://github.com/DancingSnow0517)
+- Repository: https://github.com/DancingSnow0517/MCDR-Command-Exporter
+- Repository plugin page: https://github.com/DancingSnow0517/MCDR-Command-Exporter/tree/master/command_exporter
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: A plugin is used to export the MCDR command tree
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.7.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+English | [中文](README-CN.MD)
+
+# MCDR Command Exporter
+
+A plugin is used to export the MCDR command tree.
+
+Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0517/MCDR-Completion).
+
+## Usage
+1. Go to [release page](https://github.com/DancingSnow0517/MCDR-Command-Exporter/releases) download `MCDRCommandExporter-vX.X.X.mcdr` plugin
+
+   Put it in the plugins folder and reload MCDR plugins.
+
+2. Download fabric mod [MCDR-Completion](https://github.com/DancingSnow0517/MCDR-Completion/releases) and install it to `Server` and `Client`
+
+   This mod requires [fabric-api](https://modrinth.com/mod/fabric-api)
+
+3. Join the server and enjoy it! 
+
+
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## cpu_temp
 
@@ -817,12 +895,13 @@ Reforged of ChatBridge, interaction with other clients(such as minecraft server,
 
 - Plugin ID: `cpu_temp`
 - Plugin Name: cpu_temp
-- Version: 3.0.2
+- Version: None
   - Metadata version: 3.0.2
-  - Release version: 3.0.2
-- Total downloads: 210
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
+- Repository plugin page: https://github.com/R1ckyH/cpu_temp/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A plugin to check cpu temp regularly.
 
@@ -850,7 +929,6 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [cpu_temp-3.0.2.mcdr](https://github.com/R1ckyH/cpu_temp/releases/tag/v3.0.2) | 3.0.2 | 2021/10/26 07:30:51 | 8.42KB | 210 | [Download](https://github.com/R1ckyH/cpu_temp/releases/download/v3.0.2/cpu_temp-3.0.2.mcdr) |
 
 ## crash_restart
 
@@ -858,12 +936,13 @@ A plugin to check cpu temp regularly.
 
 - Plugin ID: `crash_restart`
 - Plugin Name: Crash Restart
-- Version: 1.0.0
+- Version: None
   - Metadata version: 1.0.0
-  - Release version: 1.0.0
-- Total downloads: 2501
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
+- Repository plugin page: https://github.com/MCDReforged/CrashRestart/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Automatically restart the server after the server crashed
 
@@ -887,7 +966,6 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [CrashRestart-v1.0.0.mcdr](https://github.com/MCDReforged/CrashRestart/releases/tag/v1.0.0) | 1.0.0 | 2021/08/22 04:31:25 | 13.33KB | 2501 | [Download](https://github.com/MCDReforged/CrashRestart/releases/download/v1.0.0/CrashRestart-v1.0.0.mcdr) |
 
 ## database_api
 
@@ -895,12 +973,13 @@ A plugin to check cpu temp regularly.
 
 - Plugin ID: `database_api`
 - Plugin Name: DatabaseAPI
-- Version: 0.1.1
+- Version: None
   - Metadata version: 0.1.1
-  - Release version: 0.1.1
-- Total downloads: 58
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Database API to access database
 
@@ -958,8 +1037,6 @@ A plugin to check cpu temp regularly.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DatabaseAPI-v0.1.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.1) | 0.1.1 | 2022/06/30 06:31:33 | 1.25KB | 55 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.1/DatabaseAPI-v0.1.1.mcdr) |
-| [DatabaseAPI-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.0) | 0.1.0 | 2022/06/30 04:17:28 | 1.13KB | 3 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.0/DatabaseAPI-v0.1.0.mcdr) |
 
 ## daycount_nbt
 
@@ -967,12 +1044,13 @@ A plugin to check cpu temp regularly.
 
 - Plugin ID: `daycount_nbt`
 - Plugin Name: DayCount NBT
-- Version: 2.2.1
+- Version: None
   - Metadata version: 2.2.1
-  - Release version: 2.2.1
-- Total downloads: 4025
+  - Release version: None
+- Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
+- Repository plugin page: https://github.com/alex3236/daycount-NBT/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
 - Description: :calendar: Get and export server opening times.
 
@@ -1001,9 +1079,6 @@ Feature:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.2.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.1) | 2.2.1 | 2022/10/01 02:10:09 | 1.48KB | 71 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.2.1/DayCountNBT-v2.2.1.mcdr) |
-| [DayCountNBT-v2.1.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1) | 2.1.1 | 2021/11/08 14:26:50 | 1.33KB | 151 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1.1/DayCountNBT-v2.1.1.mcdr) |
-| [DayCountNBT-v2.1.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1) | 2.1 | 2021/10/01 06:12:46 | 1.31KB | 147 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1/DayCountNBT-v2.1.0.mcdr) |
 
 ## daytime
 
@@ -1011,12 +1086,13 @@ Feature:
 
 - Plugin ID: `daytime`
 - Plugin Name: Daytime
-- Version: 1.1.0
+- Version: None
   - Metadata version: 1.1.0
-  - Release version: 1.1.0
-- Total downloads: 1668
+  - Release version: None
+- Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-Daytime
+- Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-Daytime/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: show time in minecraft
 
@@ -1041,7 +1117,6 @@ Show time in Minecraft
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Daytime-v1.1.0.mcdr](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/tag/v1.1.0) | 1.1.0 | 2021/08/18 04:36:17 | 1.07KB | 1668 | [Download](https://github.com/BelowZeroKelvin/MCDR-Daytime/releases/download/v1.1.0/Daytime-v1.1.0.mcdr) |
 
 ## delayexe
 
@@ -1049,12 +1124,13 @@ Show time in Minecraft
 
 - Plugin ID: `delayexe`
 - Plugin Name: Delay Exe
-- Version: 1.3.0
+- Version: None
   - Metadata version: 1.3.0
-  - Release version: 1.3.0
-- Total downloads: 191
+  - Release version: None
+- Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/delayexe_mcdr
+- Repository plugin page: https://github.com/kmcsr/delayexe_mcdr/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: Delay execute command until all player have left
 
@@ -1080,9 +1156,6 @@ Show time in Minecraft
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DelayExe-v1.3.0.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 07:59:57 | 4.77KB | 13 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.3.0/DelayExe-v1.3.0.mcdr) |
-| [DelayExe-v1.2.2.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.2) | 1.2.2 | 2022/10/23 06:19:23 | 4.78KB | 23 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.2/DelayExe-v1.2.2.mcdr) |
-| [DelayExe-v1.2.1.mcdr](https://github.com/kmcsr/delayexe_mcdr/releases/tag/v1.2.1) | 1.2.1 | 2022/09/18 02:03:14 | 4.77KB | 18 | [Download](https://github.com/kmcsr/delayexe_mcdr/releases/download/v1.2.1/DelayExe-v1.2.1.mcdr) |
 
 ## diamond_calc
 
@@ -1090,12 +1163,13 @@ Show time in Minecraft
 
 - Plugin ID: `diamond_calc`
 - Plugin Name: Diamond Calculator
-- Version: 1.0.0
+- Version: None
   - Metadata version: 1.0.0
-  - Release version: N/A
+  - Release version: None
 - Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/DiamondCalc
+- Repository plugin page: https://github.com/HuajiMUR233/DiamondCalc/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: *None*
 
@@ -1120,18 +1194,306 @@ Show time in Minecraft
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
 
+## dict_command_registration
+
+### Basic Information
+
+- Plugin ID: `dict_command_registration`
+- Plugin Name: Dict Command Registration
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration
+- Labels: [`API`](/labels/api/readme.md)
+- Description: Register your command by a python dict
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.7.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# Dict Command Registration
+
+> Register your command with a python dict.
+
+MCDReforged implements a command system like [brigadier](https://github.com/Mojang/brigadier), but it is too difficult to use and not intuitive enough. When the tree becomes large, maintainability and readability become extremely poor. Then you have to split it into multiple child nodes, but when the child nodes become large you need to keep splitting them and end up in an infinite loop.
+
+This plugin provides an API that allows you to register MCDR command trees with python dict, which is also a tree structure - a more intuitive structure, isn't it? It takes the python dict you provide, generates the MCDR Command Node, then register it. You do not have to bother with the huge code tree, just maintain your dict tree.
+
+Incidentally, it can register the [help message](https://mcdreforged.readthedocs.io/en/latest/code_references/PluginServerInterface.html#mcdreforged.plugin.server_interface.PluginServerInterface.register_help_message) for you.
+
+## Quick Start
+
+Let's register this example command in MCDR doc:
+
+```text
+Literal('!!email'). \
+then(Literal('list')). \
+then(Literal('remove'). \
+    then(Integer('email_id'))
+). \
+then(Literal('send'). \
+    then(Text('player'). \
+        then(GreedyText('message'))
+    )
+)
+```
+
+Write the command dict and call register method.
+
+```python
+from dict_command_registration import NodeType, register
+
+command = {
+    "name": "!!email",
+    "children": [
+        {
+            "name": "list"
+        },
+        {
+            "name": "remove",
+            "children": [
+                {
+                    "name": "email_id",
+                    "type": NodeType.INTEGER
+                }
+            ]
+        },
+        {
+            "name": "send",
+            "children": [
+                {
+                    "name": "player",
+                    "type": NodeType.TEXT,
+                    "children": [
+                        {
+                            "name": "email_id",
+                            "type": NodeType.GREEDY_TEXT
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+def on_load(server, prev_module):
+    register(server, command)
+```
+
+All done!
+
+If you want register help message together:
+
+```python
+register(server, command, "Email command")
+```
+
+## Concepts
+
+### Node
+
+In this plugin, `Node` means a dict which contains data of a MCDR
+command node.
+
+See also: [Node](#node-dict)
+
+## API Reference
+
+### Exceptions
+
+#### MissingRequiredAttribute
+
+Raise when missing required attribute in [Node](#node-dict).
+
+### NodeType
+
+MCDR Origin Command Nodes.
+
+| Key | Class |
+| - | - |
+| LITERAL | [Literal](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.Literal) |
+| NUMBER | [Number](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Number) |
+| INTEGER | [Integer](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Integer) |
+| FLOAT | [Float](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Float) |
+| TEXT | [Text](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Text) |
+| QUOTABLE_TEXT | [QuotableText](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.QuotableText) |
+| GREEDY_TEXT | [GreedyText](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.GreedyText) |
+| BOOLEAN | [Boolean](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Boolean) |
+| ENUMERATION | [Enumeration](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Enumeration) |
+
+### Node (class)
+
+Parse a [Node (dict)](#node-dict), and can cast to MCDR node.
+
+#### __init__(data: Dict[str, Any])
+
+Accept a dict.
+
+#### literal: Union[str, Iterable[str]]
+
+Get literal string or Iterable.
+
+#### to_mcdr_node() -> Union[Literal, ArgumentNode]
+
+To MCDR Node.
+
+### Node (dict)
+
+#### name
+
+> Name of the node.
+
+- Type: `str`
+
+This value is required.
+
+#### node
+
+> MCDR node if you want use exist node.
+
+- Type: [Literal](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.Literal) or [ArgumentNode](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.ArgumentNode)
+
+#### literal
+
+> Text of a literal node.
+
+- Type: `str` or `Iterable[str]`
+- Default: [name](#name) value
+
+You have to set this value if you want use multiple literals (Iterable).
+
+#### type
+
+> Type of this node.
+
+- Type: [NodeType](#nodetype) or [ArgumentNode](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.ArgumentNode)
+- Default: [NodeType.LITERAL](#literal)
+
+#### enumeration
+
+> Value of [Enumeration](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.arguments.Enumeration) node.
+
+- Type: `Dict[str, Any]`
+- Default: `[]`
+
+#### args
+
+> Args to create Node if using customize node.
+
+- Type: `List[Any]`
+- Default: `[]`
+
+#### kwargs
+
+> Kwargs to create Node if using customize node.
+
+- Type: `Dict[str, Any]`
+- Default: `{}`
+
+#### runs
+
+> Set the callback function of this node.
+
+- Type: `Callable`
+
+See also: [AbstractNode.runs()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.runs).
+
+#### requires
+
+> Set the requirement tester callback of the node.
+
+- Type: `Union[Callable, List[Callable]]`
+
+See also: [AbstractNode.requires()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.requires).
+
+#### redirects
+
+> Redirect all further child nodes command parsing to another given node.
+
+- Type: [AbstractNode](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode)
+
+See also: [AbstractNode.redirects()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.redirects).
+
+#### suggests
+
+> Set the provider for command suggestions of this node.
+
+- Type: `Callable`
+
+See also: [AbstractNode.suggests()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.suggests).
+
+#### on_error
+
+> When a command error occurs, the given will invoke the given handler to handle with the error.
+
+- Type: `Dict[str, Any]`
+
+See also: [AbstractNode.on_error()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.on_error).
+
+Accept three keys in the dict, which are three arguments listed in the doc.
+
+#### on_child_error
+
+> Similar to `on_error()`, but it gets triggered only when the node receives a command error from one of the node’s direct or indirect child.
+
+- Type: `Dict[str, Any]`
+
+See also: [AbstractNode.on_child_error()](https://mcdreforged.readthedocs.io/en/latest/code_references/command.html#mcdreforged.command.builder.nodes.basic.AbstractNode.on_child_error).
+
+Accept three keys in the dict, which are three arguments listed in the doc.
+
+#### children
+
+> Children of this node.
+
+- Type: `List[Dict[str, Any]]`
+- Default: `[]`
+
+You can put node in the array to add a child node.
+
+### register
+
+Method to register command.
+
+Params:
+
+- PluginServerInterface server: the PluginServerInterface instance of your plugin, to ensure that this command is registered by your plugin.
+- dict command: Command, please find more information in the document.
+- str help_message: Provide a string value if you want register
+- int help_message_permission: The minimum permission level to see this help message. See also in MCDReforged document.
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+
 ## easy_bot_manager
 
 ### Basic Information
 
 - Plugin ID: `easy_bot_manager`
 - Plugin Name: Easy Bot Manager
-- Version: 0.2
+- Version: None
   - Metadata version: 0.2
-  - Release version: 0.2
-- Total downloads: 34
+  - Release version: None
+- Total downloads: 0
 - Authors: [LiuTed](https://github.com/LiuTed)
 - Repository: https://github.com/LiuTed/EasyBotManager
+- Repository plugin page: https://github.com/LiuTed/EasyBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Easy-to-use Carpet Bot Manager Plugin
 
@@ -1158,8 +1520,43 @@ Show time in Minecraft
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [EasyBotManager-v0.2.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.2) | 0.2 | 2022/06/23 07:16:44 | 9.15KB | 34 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.2/EasyBotManager-v0.2.mcdr) |
-| [EasyBotManager-v0.1.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.1) | 0.1 | 2022/06/23 07:15:45 | 7.37KB | 0 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.1/EasyBotManager-v0.1.mcdr) |
+
+## eulagree
+
+### Basic Information
+
+- Plugin ID: `eulagree`
+- Plugin Name: EULAgree
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
+- Repository: https://github.com/HuajiMURsMC/EULAgree
+- Repository plugin page: https://github.com/HuajiMURsMC/EULAgree/tree/main
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: I always agree with EULA, don't ask me
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [ruamel.yaml](https://pypi.org/project/ruamel.yaml) | ~=0.17 |
+
+### Introduction
+
+I always agree with EULA, don't ask me
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## faster_transfer
 
@@ -1167,12 +1564,13 @@ Show time in Minecraft
 
 - Plugin ID: `faster_transfer`
 - Plugin Name: Faster Transfer
-- Version: 0.1
+- Version: None
   - Metadata version: 0.1.0
-  - Release version: 0.1
-- Total downloads: 221
+  - Release version: None
+- Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/FasterTransfer
+- Repository plugin page: https://github.com/alex3236/FasterTransfer/tree/master/src
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: :rocket: Make web? file transfers faster!
 
@@ -1199,7 +1597,6 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [FasterTransfer-v0.1.0.mcdr](https://github.com/alex3236/FasterTransfer/releases/tag/v0.1) | 0.1 | 2021/10/04 07:59:17 | 935B | 221 | [Download](https://github.com/alex3236/FasterTransfer/releases/download/v0.1/FasterTransfer-v0.1.0.mcdr) |
 
 ## gamemode
 
@@ -1207,12 +1604,13 @@ Make file transfers faster!
 
 - Plugin ID: `gamemode`
 - Plugin Name: Gamemode
-- Version: 0.1.0
-  - Metadata version: 0.1.1
-  - Release version: 0.1.0
-- Total downloads: 246
+- Version: None
+  - Metadata version: 1.0.1
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/gamemode
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Change to spectator mode for observe, teleport to origin position when change back to survival mode
 
@@ -1281,7 +1679,6 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Gamemode-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/gamemode-v0.1.0) | 0.1.0 | 2022/06/30 09:29:07 | 3.02KB | 246 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/gamemode-v0.1.0/Gamemode-v0.1.0.mcdr) |
 
 ## here
 
@@ -1289,12 +1686,13 @@ Make file transfers faster!
 
 - Plugin ID: `here`
 - Plugin Name: Here
-- Version: 1.2.2
+- Version: None
   - Metadata version: 1.2.2
-  - Release version: 1.2.2
-- Total downloads: 7176
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [nathan21hz](https://github.com/nathan21hz), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Here
+- Repository plugin page: https://github.com/TISUnion/Here/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Broadcast your position and high light yourself
 
@@ -1318,9 +1716,46 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Here-v1.2.2.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.2) | 1.2.2 | 2021/11/05 10:52:58 | 15.71KB | 1649 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.2/Here-v1.2.2.mcdr) |
-| [Here-v1.2.1.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.1) | 1.2.1 | 2021/09/01 15:21:46 | 15.69KB | 1505 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.1/Here-v1.2.1.mcdr) |
-| [Here-v1.2.0.mcdr](https://github.com/TISUnion/Here/releases/tag/v1.2.0) | 1.2.0 | 2021/08/27 05:30:36 | 15.38KB | 1325 | [Download](https://github.com/TISUnion/Here/releases/download/v1.2.0/Here-v1.2.0.mcdr) |
+
+## hibernate_r
+
+### Basic Information
+
+- Plugin ID: `hibernate_r`
+- Plugin Name: HibernateR
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233)
+- Repository: https://github.com/HIM049/MCDR_HibernateR
+- Repository plugin page: https://github.com/HIM049/MCDR_HibernateR/tree/master
+- Labels: [`Management`](/labels/management/readme.md)
+- Description: 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [online_player_api](/plugins/online_player_api/readme.md) | * |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+
+### Introduction
+
+*None*
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## info
 
@@ -1328,12 +1763,13 @@ Make file transfers faster!
 
 - Plugin ID: `info`
 - Plugin Name: Info
-- Version: 0.1.0
-  - Metadata version: 0.1.0
-  - Release version: 0.1.0
-- Total downloads: 2021
+- Version: None
+  - Metadata version: 0.2.0
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server info
 
@@ -1347,6 +1783,7 @@ Make file transfers faster!
 | Python package | Requirement |
 | --- | --- |
 | [psutil](https://pypi.org/project/psutil) |  |
+| [py-cpuinfo](https://pypi.org/project/py-cpuinfo) |  |
 
 ### Introduction
 
@@ -1388,8 +1825,6 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Info-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.1.0) | 0.1.0 | 2022/06/30 05:59:40 | 2.1KB | 322 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.1.0/Info-v0.1.0.mcdr) |
-| [Info-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/info-v0.0.2) | 0.0.2 | 2021/08/22 16:42:48 | 2.13KB | 1699 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/info-v0.0.2/Info-v0.0.2.mcdr) |
 
 ## join_motd
 
@@ -1397,12 +1832,13 @@ Make file transfers faster!
 
 - Plugin ID: `join_motd`
 - Plugin Name: Join MOTD
-- Version: 1.3.0
+- Version: None
   - Metadata version: 1.3.0
-  - Release version: 1.3.0
-- Total downloads: 2485
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
+- Repository plugin page: https://github.com/TISUnion/joinMOTD/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Send player a MOTD when he joins
 
@@ -1426,8 +1862,6 @@ Make file transfers faster!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 664 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
-| [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1821 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_plus
 
@@ -1435,12 +1869,13 @@ Make file transfers faster!
 
 - Plugin ID: `join_motd_plus`
 - Plugin Name: joinMOTD++
-- Version: 3.1.3
+- Version: None
   - Metadata version: 3.1.3
-  - Release version: N/A
+  - Release version: None
 - Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/joinMOTD_Plus
+- Repository plugin page: https://github.com/alex3236/joinMOTD_Plus/tree/main/src
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Display content when players join the server. (with many useful features)
 
@@ -1481,12 +1916,13 @@ Features:
 
 - Plugin ID: `jrrp`
 - Plugin Name: Jrrp
-- Version: 3.0.0
+- Version: None
   - Metadata version: 3.0.0
-  - Release version: 3.0.0
-- Total downloads: 54
+  - Release version: None
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMURsMC/jrrp
+- Repository plugin page: https://github.com/HuajiMURsMC/jrrp/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: 《今日人品》
 
@@ -1513,7 +1949,6 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Jrrp-v3.0.0.mcdr](https://github.com/HuajiMURsMC/jrrp/releases/tag/3.0.0) | 3.0.0 | 2022/08/28 11:29:45 | 13.98KB | 54 | [Download](https://github.com/HuajiMURsMC/jrrp/releases/download/3.0.0/Jrrp-v3.0.0.mcdr) |
 
 ## jrrps
 
@@ -1521,12 +1956,13 @@ Features:
 
 - Plugin ID: `jrrps`
 - Plugin Name: Jrrps Plg
-- Version: 2.3.2
+- Version: None
   - Metadata version: 2.3.2
-  - Release version: 2.3.2
-- Total downloads: 69
+  - Release version: None
+- Total downloads: 0
 - Authors: [SkyDynamic](https://github.com/SkyDynamic)
 - Repository: https://github.com/SkyDynamic/jrrps
+- Repository plugin page: https://github.com/SkyDynamic/jrrps/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Test today's luck
 
@@ -1552,9 +1988,6 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [jrrp2.3.2.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.3.2) | 2.3.2 | 2022/03/20 01:21:46 | 2.71KB | 62 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/2.3.2/jrrp2.3.2.mcdr) |
-| [jrrp2.0.0.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/2.0.0) | 2.0.0 | 2022/03/12 06:40:17 | 4.65KB | 4 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/2.0.0/jrrp2.0.0.mcdr) |
-| [jrrp.mcdr](https://github.com/SkyDynamic/jrrps/releases/tag/1.1.0) | 1.1.0 | 2022/03/12 02:28:12 | 3.65KB | 3 | [Download](https://github.com/SkyDynamic/jrrps/releases/download/1.1.0/jrrp.mcdr) |
 
 ## kpi
 
@@ -1562,12 +1995,13 @@ Today's horoscope based on `random.randint(0, 100)`
 
 - Plugin ID: `kpi`
 - Plugin Name: KPI
-- Version: 1.3.2
-  - Metadata version: 1.3.2
-  - Release version: 1.3.2
-- Total downloads: 72
+- Version: None
+  - Metadata version: 1.4.5
+  - Release version: None
+- Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
+- Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A MCDR plugins codes share library
 
@@ -1575,7 +2009,7 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
 
 ### Requirements
 
@@ -1592,9 +2026,6 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.3.2.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.2) | 1.3.2 | 2022/11/30 04:45:55 | 18.87KB | 4 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.2/KPI-v1.3.2.mcdr) |
-| [KPI-v1.3.1.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.1) | 1.3.1 | 2022/11/27 19:48:20 | 18.88KB | 8 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.1/KPI-v1.3.1.mcdr) |
-| [KPI-v1.3.0.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 07:57:14 | 18.74KB | 5 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.3.0/KPI-v1.3.0.mcdr) |
 
 ## lazytp
 
@@ -1602,12 +2033,13 @@ Today's horoscope based on `random.randint(0, 100)`
 
 - Plugin ID: `lazytp`
 - Plugin Name: Lazy Teleport
-- Version: 2.0.1
+- Version: None
   - Metadata version: 2.0.1
-  - Release version: 2.0.1
-- Total downloads: 2718
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/lazytp
+- Repository plugin page: https://github.com/Lazy-Bing-Server/lazytp/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A express gateway between each dimensions
 
@@ -1635,8 +2067,6 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LazyTeleport-v2.0.1.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.1) | 2.0.1 | 2021/08/27 16:14:43 | 19.55KB | 1402 | [Download](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.1/LazyTeleport-v2.0.1.mcdr) |
-| [LazyTeleport-v2.0.0.mcdr](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/tag/2.0.0) | 2.0.0 | 2021/08/27 16:04:24 | 7.38KB | 1316 | [Download](https://github.com/Lazy-Bing-Server/LazyTP-MCDR/releases/download/2.0.0/LazyTeleport-v2.0.0.mcdr) |
 
 ## leader_reforged
 
@@ -1644,12 +2074,13 @@ Today's horoscope based on `random.randint(0, 100)`
 
 - Plugin ID: `leader_reforged`
 - Plugin Name: Leader Reforged
-- Version: 1.1.2
+- Version: None
   - Metadata version: 1.1.2
-  - Release version: 1.1.2
-- Total downloads: 129
+  - Release version: None
+- Total downloads: 0
 - Authors: [XavierWah](https://github.com/XavierWah)
 - Repository: https://github.com/Minecraft-AMS/Leader-Reforged
+- Repository plugin page: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: This is a simplified and reforged version for Leader, allowing to mark a leader.
 
@@ -1674,9 +2105,49 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [leader_reforged-v1.1.2.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.2) | 1.1.2 | 2022/04/09 08:33:45 | 10.28KB | 94 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.2/leader_reforged-v1.1.2.mcdr) |
-| [leader_reforged-v1.1.1.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.1) | 1.1.1 | 2022/03/31 06:34:39 | 10.13KB | 7 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.1/leader_reforged-v1.1.1.mcdr) |
-| [leader_reforged-v1.1.0-patched.mcdr](https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0-patched) | 1.1.0-patched | 2022/03/22 06:09:16 | 9.69KB | 5 | [Download](https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0-patched/leader_reforged-v1.1.0-patched.mcdr) |
+
+## let_me_click_and_send
+
+### Basic Information
+
+- Plugin ID: `let_me_click_and_send`
+- Plugin Name: Let Me Click and Send
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send
+- Labels: [`Information`](/labels/information/readme.md)
+- Description: Allowed click to send anything in 1.19
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# Let Me Click and Send
+
+允许在 1.19 点击发送任意信息
+
+Allowed click to send anything in 1.19
+
+See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend)
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## lite_file_manager
 
@@ -1684,12 +2155,13 @@ A simplified and reforged version for Leader, allowing to mark a leader.
 
 - Plugin ID: `lite_file_manager`
 - Plugin Name: Lite File Manager
-- Version: 1.3.0
+- Version: None
   - Metadata version: 1.3.0
-  - Release version: 1.3.0
-- Total downloads: 4082
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/LiteFileManager
+- Repository plugin page: https://github.com/MCDReforged/LiteFileManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A lite-weight in-game file manager
 
@@ -1716,9 +2188,6 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LiteFileManager-v1.3.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0) | 1.3.0 | 2021/08/26 13:57:51 | 24.63KB | 1462 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr) |
-| [LiteFileManager-v1.2.1.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1) | 1.2.1 | 2021/08/16 17:09:01 | 24.56KB | 1316 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr) |
-| [LiteFileManager-v1.2.0.mcdr](https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.0) | 1.2.0 | 2021/08/16 17:07:34 | 12.46KB | 1304 | [Download](https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.0/LiteFileManager-v1.2.0.mcdr) |
 
 ## location_marker
 
@@ -1726,12 +2195,13 @@ Browse / Import / Export files in the server in Minecraft!
 
 - Plugin ID: `location_marker`
 - Plugin Name: Location Marker
-- Version: 1.3.1
+- Version: None
   - Metadata version: 1.3.1
-  - Release version: 1.3.1
-- Total downloads: 2197
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
+- Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A server side waypoint manager
 
@@ -1757,7 +2227,6 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2197 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## loginproxy
 
@@ -1765,12 +2234,13 @@ Browse / Import / Export files in the server in Minecraft!
 
 - Plugin ID: `loginproxy`
 - Plugin Name: LoginProxy
-- Version: 0.4.0
-  - Metadata version: 0.4.0
-  - Release version: 0.4.0
-- Total downloads: 36
+- Version: None
+  - Metadata version: 0.5.3
+  - Release version: None
+- Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
+- Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
 - Description: A Minecraft login proxy Plugin
 
@@ -1778,8 +2248,8 @@ Browse / Import / Export files in the server in Minecraft!
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
-| [kpi](/plugins/kpi/readme.md) | \>=1.3.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.5 |
 
 ### Requirements
 
@@ -1796,9 +2266,47 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LoginProxy-v0.4.0.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.4.0) | 0.4.0 | 2022/11/25 08:00:14 | 22.72KB | 10 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.4.0/LoginProxy-v0.4.0.mcdr) |
-| [LoginProxy-v0.3.5.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.5) | 0.3.5 | 2022/11/20 21:06:17 | 22.83KB | 2 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.5/LoginProxy-v0.3.5.mcdr) |
-| [LoginProxy-v0.3.4.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.3.4) | 0.3.4 | 2022/11/20 20:34:13 | 22.85KB | 1 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.3.4/LoginProxy-v0.3.4.mcdr) |
+
+## lowercase_mcdr_command
+
+### Basic Information
+
+- Plugin ID: `lowercase_mcdr_command`
+- Plugin Name: Lowercase MCDR Command
+- Version: None
+  - Metadata version: 1.2.2
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
+- Labels: [`Management`](/labels/management/readme.md)
+- Description: Lowercase `!!MCDR` command
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# Lowercase MCDR Command
+
+> 小写的 MCDR 指令
+
+您现在可以使用 `!!mcdr` 等效 `!!MCDR`。
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## mc_uuid
 
@@ -1806,12 +2314,13 @@ Browse / Import / Export files in the server in Minecraft!
 
 - Plugin ID: `mc_uuid`
 - Plugin Name: Minecraft UUID API
-- Version: 1.0.0
+- Version: None
   - Metadata version: 1.0.0
-  - Release version: 1.0.0
-- Total downloads: 1605
+  - Release version: None
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/MCUUID
+- Repository plugin page: https://github.com/HuajiMUR233/MCUUID/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Minecraft UUID API
 
@@ -1836,7 +2345,6 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftUUIDAPI-v1.0.0.mcdr](https://github.com/HuajiMURsMC/MCUUID/releases/tag/1.0.0) | 1.0.0 | 2021/08/16 15:53:02 | 1.85KB | 1605 | [Download](https://github.com/HuajiMURsMC/MCUUID/releases/download/1.0.0/MinecraftUUIDAPI-v1.0.0.mcdr) |
 
 ## mcd_seen
 
@@ -1844,12 +2352,13 @@ Browse / Import / Export files in the server in Minecraft!
 
 - Plugin ID: `mcd_seen`
 - Plugin Name: Seen
-- Version: 1.2.0
-  - Metadata version: 1.2.0
-  - Release version: 1.2.0
-- Total downloads: 2961
+- Version: None
+  - Metadata version: 1.2.1
+  - Release version: None
+- Total downloads: 0
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Seen
+- Repository plugin page: https://github.com/TISUnion/Seen/tree/MCDR
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Show laziness rank easily
 
@@ -1876,9 +2385,6 @@ Shows tasks of project in progress
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Seen-v1.2.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.2.0) | 1.2.0 | 2022/11/23 15:34:38 | 10.95KB | 5 | [Download](https://github.com/TISUnion/Seen/releases/download/1.2.0/Seen-v1.2.0.mcdr) |
-| [Seen-v1.1.0.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.0) | 1.1.0 | 2021/08/22 13:01:56 | 9.77KB | 1535 | [Download](https://github.com/TISUnion/Seen/releases/download/1.1.0/Seen-v1.1.0.mcdr) |
-| [Seen-v1.1.1.mcdr](https://github.com/TISUnion/Seen/releases/tag/1.1.1) | 1.1.1 | 2021/08/27 06:13:23 | 9.78KB | 1421 | [Download](https://github.com/TISUnion/Seen/releases/download/1.1.1/Seen-v1.1.1.mcdr) |
 
 ## mcd_task
 
@@ -1886,12 +2392,13 @@ Shows tasks of project in progress
 
 - Plugin ID: `mcd_task`
 - Plugin Name: Task
-- Version: 2.3.4
-  - Metadata version: 2.3.4+build.66
-  - Release version: 2.3.4
-- Total downloads: 3185
+- Version: None
+  - Metadata version: 2.3.5+build.67
+  - Release version: None
+- Total downloads: 0
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Task
+- Repository plugin page: https://github.com/TISUnion/Task/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin to show tasks of project in progress
 
@@ -1916,9 +2423,6 @@ Shows tasks of project in progress
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Task-v2.3.4+build.66.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.4) | 2.3.4 | 2022/11/10 16:35:38 | 18.45KB | 37 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.4/Task-v2.3.4%2Bbuild.66.mcdr) |
-| [Task-v2.3.3+build.65.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.3) | 2.3.3 | 2022/11/10 15:56:35 | 18.46KB | 2 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.3/Task-v2.3.3%2Bbuild.65.mcdr) |
-| [Task-v2.3.2+build.64.mcdr](https://github.com/TISUnion/Task/releases/tag/2.3.2) | 2.3.2 | 2022/07/20 13:37:06 | 18.56KB | 195 | [Download](https://github.com/TISUnion/Task/releases/download/2.3.2/Task-v2.3.2%2Bbuild.64.mcdr) |
 
 ## mcdr_pycraft_bot
 
@@ -1926,12 +2430,13 @@ Shows tasks of project in progress
 
 - Plugin ID: `mcdr_pycraft_bot`
 - Plugin Name: MCDR Bot
-- Version: 1.2.0
+- Version: None
   - Metadata version: 1.2.0
-  - Release version: 1.2.0
-- Total downloads: 2932
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
+- Repository plugin page: https://github.com/MCDReforged/MCDR-bot/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: MCDR Bot powered by pyCraft
 
@@ -1958,8 +2463,6 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 1623 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
-| [MCDRBot-v1.1.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 01:19:33 | 74.62KB | 1309 | [Download](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.1.0/MCDRBot-v1.1.0.mcdr) |
 
 ## mcdreforged_plugin_manager
 
@@ -1967,12 +2470,13 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 - Plugin ID: `mcdreforged_plugin_manager`
 - Plugin Name: MCDReforged Plugin Manager
-- Version: 1.3.1
-  - Metadata version: 1.3.1
-  - Release version: 1.3.1
-- Total downloads: 287
+- Version: None
+  - Metadata version: 2.0.0
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MCDReforgedPluginManager
+- Repository plugin page: https://github.com/Ivan-1F/MCDReforgedPluginManager/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Manage your mcdreforged plugins with ease
 
@@ -1999,9 +2503,6 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDReforgedPluginManager-v1.3.1.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.1) | 1.3.1 | 2022/11/30 08:48:02 | 21.54KB | 0 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.1/MCDReforgedPluginManager-v1.3.1.mcdr) |
-| [MCDReforgedPluginManager-v1.3.0.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.0) | 1.3.0 | 2022/11/22 15:10:19 | 21.45KB | 21 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.0/MCDReforgedPluginManager-v1.3.0.mcdr) |
-| [MCDReforgedPluginManager-v1.2.1.mcdr](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.1) | 1.2.1 | 2022/07/27 06:28:27 | 21.3KB | 188 | [Download](https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.2.1/MCDReforgedPluginManager-v1.2.1.mcdr) |
 
 ## mcdrpost
 
@@ -2009,12 +2510,13 @@ MCDR Bot powered by [pyCraft](https://github.com/ammaraskar/pyCraft), works for 
 
 - Plugin ID: `mcdrpost`
 - Plugin Name: MCDRpost
-- Version: 2.1.0
+- Version: None
   - Metadata version: 2.1.0
-  - Release version: 2.1.0
-- Total downloads: 111
+  - Release version: None
+- Total downloads: 0
 - Authors: [Flyky](https://github.com/Flyky)
 - Repository: https://github.com/Flyky/MCDRpost
+- Repository plugin page: https://github.com/Flyky/MCDRpost/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A MCDR plugin for post/teleport items
 
@@ -2041,7 +2543,6 @@ A MCDR plugin for post/teleport items
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRpost-v2.1.0.mcdr](https://github.com/Flyky/MCDRpost/releases/tag/2.1.0) | 2.1.0 | 2022/06/16 16:32:20 | 8.73KB | 111 | [Download](https://github.com/Flyky/MCDRpost/releases/download/2.1.0/MCDRpost-v2.1.0.mcdr) |
 
 ## minecraft_command_register
 
@@ -2049,12 +2550,13 @@ A MCDR plugin for post/teleport items
 
 - Plugin ID: `minecraft_command_register`
 - Plugin Name: Minecraft Command Register
-- Version: 1.1.1
-  - Metadata version: 1.1.1
-  - Release version: 1.1.1
-- Total downloads: 38
-- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Version: None
+  - Metadata version: 1.3.2
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Register MCDReforged commands in Minecraft
 
@@ -2062,7 +2564,7 @@ A MCDR plugin for post/teleport items
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.6.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.8.3 |
 
 ### Requirements
 
@@ -2075,13 +2577,31 @@ A MCDR plugin for post/teleport items
 
 > 在 Minecraft 中注册 MCDReforged 指令
 
-例：`!!qb` 将被注册为 `/qb`
+例：`!!MCDR` 将被注册为 `/!!MCDR`、`!!qb` 将被注册为 `/!!qb`
+
+<https://user-images.githubusercontent.com/37402126/206166484-891245f2-d148-487d-b7be-1b79766144bd.mp4>
+
+## MCDR 版本对照表
+
+对于特定的 MCDR 版本，您应当使用对应的本插件版本
+
+| MCDR 版本 | 插件版本 |
+| - | - |
+| 2.6.0 | 1.2.0 |
+| 2.6.1 | 1.2.1 |
+| 2.7.0 | 1.2.2 |
+| 2.7.1 | 1.2.3 |
+| 2.7.2 | 1.2.4 |
+| 2.8.0 | None  |
+| 2.8.1 | 1.3.0 |
+| 2.8.2 | 1.3.1 |
+| 2.8.3 | 1.3.2 |
 
 ## 安装指南
 
 ### Fabric
 
-需同时安装 xxx 模组
+安装 [MCDR Command Fabric](https://www.curseforge.com/minecraft/mc-mods/mcdr-command-fabric) 模组。
 
 ### Download
 
@@ -2089,9 +2609,6 @@ A MCDR plugin for post/teleport items
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftCommandRegister-v1.1.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.1.1) | 1.1.1 | 2022/11/20 23:21:04 | 1.3KB | 36 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.1.1/MinecraftCommandRegister-v1.1.1.mcdr) |
-| [MinecraftCommandRegister-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.1.0) | 1.1.0 | 2022/11/20 22:33:08 | 1.3KB | 1 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.1.0/MinecraftCommandRegister-v1.1.0.mcdr) |
-| [MinecraftCommandRegister-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/minecraft_command_register-v1.0.0) | 1.0.0 | 2022/11/20 17:02:54 | 1.34KB | 1 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/minecraft_command_register-v1.0.0/MinecraftCommandRegister-v1.0.0.mcdr) |
 
 ## minecraft_data_api
 
@@ -2099,12 +2616,13 @@ A MCDR plugin for post/teleport items
 
 - Plugin ID: `minecraft_data_api`
 - Plugin Name: Minecraft Data API
-- Version: 1.4.1
+- Version: None
   - Metadata version: 1.4.1
-  - Release version: 1.4.1
-- Total downloads: 3751
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
+- Repository plugin page: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A MCDReforged api plugin to get player data information and more
 
@@ -2132,7 +2650,6 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 3751 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
 
@@ -2140,12 +2657,13 @@ A MCDReforged api plugin to get player data information and more
 
 - Plugin ID: `minecraft_version_api`
 - Plugin Name: Minecraft Version API
-- Version: 1.1.1
+- Version: None
   - Metadata version: 1.1.1
-  - Release version: 1.1.1
-- Total downloads: 70
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MinecraftVersionAPI
+- Repository plugin page: https://github.com/Ivan-1F/MinecraftVersionAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: A api plugin to get the Minecraft server version
 
@@ -2171,9 +2689,88 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftVersionAPI-v1.1.1.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.1) | 1.1.1 | 2022/08/27 15:59:41 | 3.05KB | 20 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.1/MinecraftVersionAPI-v1.1.1.mcdr) |
-| [MinecraftVersionAPI-v1.1.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0) | 1.1.0 | 2022/04/05 05:25:12 | 3.08KB | 50 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.0/MinecraftVersionAPI-v1.1.0.mcdr) |
-| [MinecraftVersionAPI-v1.0.0.mcdr](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0) | 1.0.0 | 2022/04/02 16:19:02 | 2.97KB | 0 | [Download](https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.0.0/MinecraftVersionAPI-v1.0.0.mcdr) |
+
+## mirror_control
+
+### Basic Information
+
+- Plugin ID: `mirror_control`
+- Plugin Name: Mirror Control
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
+- Total downloads: 0
+- Authors: [Chara_SS](https://github.com/charassss/)
+- Repository: https://github.com/charassss/Mirror-Control
+- Repository plugin page: https://github.com/charassss/Mirror-Control/tree/master
+- Labels: [`Management`](/labels/management/readme.md)
+- Description: A plugin to control mirror server
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | ~=2.6.0 |
+
+### Introduction
+
+## Mirror Control
+
+## [中文版本](./README_CN.md)
+
+#### Usage
+
+- `!!mirror` Displays help message and portable management
+- `!!mirror start <server_name>` Start the mirror server (including sync operation)
+- `!!mirror restart <server_name>` Restart the mirror server (including sync operation)
+- `!!mirror stop <server_name>` Stop the mirror server
+- `!!mirror sync <server_name>` Sync the mirror server
+
+`server_name` should be similar to *default* in the configuration file
+
+#### Configuration file structure
+
+Please modify the configuration file before using this plugin *but after you first start
+
+\* means items you need to modify
+
+```
+
+config.json
+	|- permission (int 1->4)
+	|		|- start
+	|		|- sync
+	|		|- stop
+	|		|- restart
+	|
+    |- this_server (str dir)
+    |    	|- work_directory *
+    |
+    |- server
+    		|- default * (Change to whatever you want, just don't leave it as 'default'. It's ugly.) |       |
+    		|		|- name * (Any server nickname you want)
+    		|		|- location * (An absolute address)
+    		|		|- target_server_location * (Its server directory location)
+    		-		|- command * (Start command. Can simply be filled in with 'start.bat' or 'sh start.sh')   |
+    		-		|- rcon
+    		|			|- enable * (boolean true)
+    		|			|- port * 
+    		|			|- passwd *
+    		|
+    		|- ...
+```
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## mirror_server_reforged
 
@@ -2181,12 +2778,13 @@ A MCDReforged api plugin to get player data information and more
 
 - Plugin ID: `mirror_server_reforged`
 - Plugin Name: MirrorServerReforged
-- Version: 1.0.3
-  - Metadata version: 1.0.3
-  - Release version: 1.0.3
-- Total downloads: 355
+- Version: None
+  - Metadata version: 1.0.7
+  - Release version: None
+- Total downloads: 0
 - Authors: [GamerNoTitle](https://github.com/GamerNoTitle)
 - Repository: https://github.com/EMUnion/MirrorServerReforged
+- Repository plugin page: https://github.com/EMUnion/MirrorServerReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.
 
@@ -2194,7 +2792,7 @@ A MCDReforged api plugin to get player data information and more
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 
 ### Requirements
 
@@ -2213,15 +2811,17 @@ I'll simply introduce it.
 
 ## Getting Started
 
-This plugin will initalize when the first run, it will do the following opeartions
+This plugin will initalize when the first run, it will do the following opeartions (the path can be changed in the config)
 - Create `MirrorServerReforged.json` in your `config` folder and fill the default config in it
 - Create`Mirror` folder to store your files of mirror server
 - Create `./server/world/`/`./world` in `Mirror` folder (This depends on whether you use MCDR or not, use as default)
 
-But these operations are not enough, what you need to do are as following
+But these operations are not enough, what you need to do are as following (the path can be changed in the config)
 - Put your server core and dependencies into `./Mirror/server` folder
 - Edit start command and rcon information in file `config.yml` in the folder`./Mirror/`
 - Edit the content in `./Mirror/server/server.properties`. What you need to pay attention to is the ports of the mirror server and rcon related information in order to avoid encountering to the main server
+
+It's not essential for a mirror server to be a MCDR server, you can use the vanilla or something else.
 
 ## Config
 
@@ -2238,7 +2838,9 @@ If you want to change the config of this plugin, you can change the content of `
     "host":"localhost",
     "port":25565,
     "password":"password"
-  }
+  },
+  "source": "./server",
+  "target': './Mirror/server"
 }
 ```
 
@@ -2250,6 +2852,8 @@ Now, I'll introduce the content of the config file:
     - `host` is the address of your mirror server, change it as your need.
     - `port` is the port of your mirror server, change it as your need.
     - `password` is the password of the rcon feature on your mirror server, change it as your need.
+- `source` is the save folder of you main server save.
+- `target` is the save folder of your mirror server save.
 
 ## Command List
 
@@ -2262,15 +2866,13 @@ Now, I'll introduce the content of the config file:
 !!msr init - Initalize mirror server (Use it only when you use MCDR in your mirror server)
 !!msr status - Checkout the status of your mirror server
 ```
+
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerReforged-v1.0.3.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.3) | 1.0.3 | 2022/02/11 13:32:32 | 8.22KB | 317 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.3/MirrorServerReforged-v1.0.3.mcdr) |
-| [MirrorServerReforged-v1.0.2.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.2) | 1.0.2 | 2022/02/05 07:17:57 | 8.16KB | 13 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.2/MirrorServerReforged-v1.0.2.mcdr) |
-| [MirrorServerReforged-v1.0.1.mcdr](https://github.com/EMUnion/MirrorServerReforged/releases/tag/1.0.1) | 1.0.1 | 2022/01/25 01:25:31 | 8.13KB | 22 | [Download](https://github.com/EMUnion/MirrorServerReforged/releases/download/1.0.1/MirrorServerReforged-v1.0.1.mcdr) |
 
 ## mirror_server_sync
 
@@ -2278,12 +2880,13 @@ Now, I'll introduce the content of the config file:
 
 - Plugin ID: `mirror_server_sync`
 - Plugin Name: Mirror Server Sync
-- Version: 1.0.1
+- Version: None
   - Metadata version: 1.0.1
-  - Release version: 1.0.1
-- Total downloads: 27
+  - Release version: None
+- Total downloads: 0
 - Authors: [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST), [Power-tile](https://github.com/Power-tile)
 - Repository: https://github.com/VisualSpliter/MirrorServerSync
+- Repository plugin page: https://github.com/VisualSpliter/MirrorServerSync/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers
 
@@ -2307,8 +2910,6 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorServerSync-v1.0.1.mcdr](https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1) | 1.0.1 | 2022/05/18 06:23:05 | 3.28KB | 27 | [Download](https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr) |
-| [MirrorServerSync-v1.0.0.mcdr](https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.0) | 1.0.0 | 2022/05/17 08:58:02 | 3.24KB | 0 | [Download](https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.0/MirrorServerSync-v1.0.0.mcdr) |
 
 ## mirror_sync_reforged
 
@@ -2316,12 +2917,13 @@ Now, I'll introduce the content of the config file:
 
 - Plugin ID: `mirror_sync_reforged`
 - Plugin Name: Mirror Sync Reforged
-- Version: 1.3.0
+- Version: None
   - Metadata version: 1.3.0
-  - Release version: 1.3.0
-- Total downloads: 161
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
+- Repository plugin page: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin to sync survival server world to the mirror server
 
@@ -2346,9 +2948,6 @@ Now, I'll introduce the content of the config file:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MirrorSyncReforged-v1.3.0.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0) | 1.3.0 | 2022/07/23 18:25:53 | 5.1KB | 67 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr) |
-| [MirrorSyncReforged-v1.2.2.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2) | 1.2.2 | 2022/06/26 10:33:41 | 5.01KB | 25 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.2/MirrorSyncReforged-v1.2.2.mcdr) |
-| [MirrorSyncReforged-v1.2.1.mcdr](https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1) | 1.2.1 | 2022/04/07 09:33:53 | 5.03KB | 51 | [Download](https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr) |
 
 ## more_command_nodes
 
@@ -2356,12 +2955,13 @@ Now, I'll introduce the content of the config file:
 
 - Plugin ID: `more_command_nodes`
 - Plugin Name: MoreCommandNodes
-- Version: 1.1.0
+- Version: None
   - Metadata version: 1.1.0
-  - Release version: 1.1.0
-- Total downloads: 364
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes
 - Labels: [`API`](/labels/api/readme.md)
 - Description: More command nodes
 
@@ -2424,9 +3024,6 @@ classDiagram
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MoreCommandNodes-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.1.0) | 1.1.0 | 2022/07/18 15:27:09 | 1.39KB | 311 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.1.0/MoreCommandNodes-v1.1.0.mcdr) |
-| [MoreCommandNodes-v1.0.3.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.3) | 1.0.3 | 2022/07/18 14:35:28 | 1.4KB | 6 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.3/MoreCommandNodes-v1.0.3.mcdr) |
-| [MoreCommandNodes-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/more_command_nodes-v1.0.2) | 1.0.2 | 2022/07/08 14:04:27 | 1.34KB | 40 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/more_command_nodes-v1.0.2/MoreCommandNodes-v1.0.2.mcdr) |
 
 ## mount
 
@@ -2434,12 +3031,13 @@ classDiagram
 
 - Plugin ID: `mount`
 - Plugin Name: Mount
-- Version: 0.1.0-beta1
-  - Metadata version: 0.1.0-beta2
-  - Release version: 0.1.0-beta1
-- Total downloads: 57
+- Version: None
+  - Metadata version: 0.2.0
+  - Release version: None
+- Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Mount
+- Repository plugin page: https://github.com/FAS-Server/Mount/tree/main
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Mount different minecraft server into a mcdr server, with overwritten properties!
 
@@ -2477,7 +3075,6 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Mount-v0.1.0-beta1.pyz](https://github.com/FAS-Server/Mount/releases/tag/v0.1.0-beta1) | 0.1.0-beta1 | 2022/01/20 18:05:17 | 26.4KB | 57 | [Download](https://github.com/FAS-Server/Mount/releases/download/v0.1.0-beta1/Mount-v0.1.0-beta1.pyz) |
 
 ## multi_rcon_api
 
@@ -2485,12 +3082,13 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 - Plugin ID: `multi_rcon_api`
 - Plugin Name: MultiRconAPI
-- Version: 2.0.1
+- Version: None
   - Metadata version: 2.0.1
-  - Release version: 2.0.1
-- Total downloads: 1467
+  - Release version: None
+- Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/MultiRconAPI
+- Repository plugin page: https://github.com/FAS-Server/MultiRconAPI/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md)
 - Description: An api to make it easier to control group server by rcon.
 
@@ -2516,9 +3114,6 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MultiRconAPI-V2.0.1.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.1) | 2.0.1 | 2022/02/02 13:08:08 | 4.32KB | 235 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.1/MultiRconAPI-V2.0.1.pyz) |
-| [MultiRconAPI-V2.0.0.pyz](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v2.0.0) | 2.0.0 | 2022/01/20 17:52:27 | 4.17KB | 16 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v2.0.0/MultiRconAPI-V2.0.0.pyz) |
-| [MultiRconAPI-v1.0.0.mcdr](https://github.com/FAS-Server/MultiRconAPI/releases/tag/v1.0.0) | 1.0.0 | 2021/09/05 16:39:11 | 3.82KB | 1216 | [Download](https://github.com/FAS-Server/MultiRconAPI/releases/download/v1.0.0/MultiRconAPI-v1.0.0.mcdr) |
 
 ## multi_whitelist
 
@@ -2526,12 +3121,13 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 - Plugin ID: `multi_whitelist`
 - Plugin Name: multi_whitelist
-- Version: 3.0.0
+- Version: None
   - Metadata version: 3.0.0
-  - Release version: 3.0.0
-- Total downloads: 171
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/multi_whitelist
+- Repository plugin page: https://github.com/R1ckyH/multi_whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin can control whitelist with multi servers.
 
@@ -2557,7 +3153,6 @@ A whitelist plugin with multiple server
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [multi_whitelist-3.0.0.mcdr](https://github.com/R1ckyH/multi_whitelist/releases/tag/v3.0.0) | 3.0.0 | 2021/10/26 16:12:21 | 16.99KB | 171 | [Download](https://github.com/R1ckyH/multi_whitelist/releases/download/v3.0.0/multi_whitelist-3.0.0.mcdr) |
 
 ## offline_whitelist
 
@@ -2565,12 +3160,13 @@ A whitelist plugin with multiple server
 
 - Plugin ID: `offline_whitelist`
 - Plugin Name: OfflineWhitelist
-- Version: 0.1.4
+- Version: None
   - Metadata version: 0.1.4
-  - Release version: 0.1.4
-- Total downloads: 36
+  - Release version: None
+- Total downloads: 0
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/offline-whitelist
+- Repository plugin page: https://github.com/skuzow/offline-whitelist/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Offline whitelist helper
 
@@ -2596,7 +3192,6 @@ A whitelist plugin with multiple server
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OfflineWhitelist-v0.1.4.mcdr](https://github.com/skuzow/offline-whitelist/releases/tag/v0.1.4) | 0.1.4 | 2022/07/11 13:07:56 | 16.03KB | 36 | [Download](https://github.com/skuzow/offline-whitelist/releases/download/v0.1.4/OfflineWhitelist-v0.1.4.mcdr) |
 
 ## onebot_api
 
@@ -2604,12 +3199,13 @@ A whitelist plugin with multiple server
 
 - Plugin ID: `onebot_api`
 - Plugin Name: OneBot API
-- Version: 1.1.1
+- Version: None
   - Metadata version: 1.1.1
-  - Release version: 1.1.1
-- Total downloads: 1179
+  - Release version: None
+- Total downloads: 0
 - Authors: [Huaji_MUR233](https://github.com/HuajiMUR233)
 - Repository: https://github.com/HuajiMUR233/OneBotAPI
+- Repository plugin page: https://github.com/HuajiMUR233/OneBotAPI/tree/master
 - Labels: [`API`](/labels/api/readme.md)
 - Description: OneBot in MCDReforged
 
@@ -2636,8 +3232,6 @@ A whitelist plugin with multiple server
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [OneBotAPI-v1.1.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.1.1) | 1.1.1 | 2022/11/16 13:02:15 | 3.71KB | 2 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.1.1/OneBotAPI-v1.1.1.mcdr) |
-| [OneBotAPI-v1.0.1.mcdr](https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1) | 1.0.1 | 2021/09/06 13:06:15 | 14.8KB | 1177 | [Download](https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr) |
 
 ## online
 
@@ -2645,12 +3239,13 @@ A whitelist plugin with multiple server
 
 - Plugin ID: `online`
 - Plugin Name: Online
-- Version: 1.4.0
+- Version: None
   - Metadata version: 1.4.1-alpha1
-  - Release version: 1.4.0
-- Total downloads: 3760
+  - Release version: None
+- Total downloads: 0
 - Authors: [A-JiuA](https://github.com/A-JiuA), [Nineking](https://github.com/NineKing32649163), [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/Online
+- Repository plugin page: https://github.com/FAS-Server/Online/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Display the online players for Group server, with click event to quickly join every sub-server.
 
@@ -2678,9 +3273,63 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Online-v1.4.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.4.0) | 1.4.0 | 2021/09/07 18:29:49 | 2.55KB | 1350 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.4.0/Online-v1.4.0.mcdr) |
-| [Online-v1.3.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.3.0) | 1.3.0 | 2021/09/07 03:11:37 | 1.96KB | 1100 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.3.0/Online-v1.3.0.mcdr) |
-| [online-v1.2.0.mcdr](https://github.com/FAS-Server/Online/releases/tag/v1.2.0) | 1.2.0 | 2021/08/21 11:06:24 | 2.78KB | 1310 | [Download](https://github.com/FAS-Server/Online/releases/download/v1.2.0/online-v1.2.0.mcdr) |
+
+## online_player_api
+
+### Basic Information
+
+- Plugin ID: `online_player_api`
+- Plugin Name: OnlinePlayerAPI
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api
+- Labels: [`API`](/labels/api/readme.md)
+- Description: Online Player API
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# OnlinePlayerAPI
+
+> 在线玩家API
+>
+> 获取在线玩家列表
+
+## 使用
+
+使用 `!!list` 获取在线玩家列表
+
+## API
+
+`check_online(player)`
+
+如果玩家在线, 返回 `True`
+
+如果玩家不在线, 返回 `False`
+
+`get_player_list()`
+
+返回一个在线玩家的list
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## pcrc
 
@@ -2688,12 +3337,13 @@ Display the online players for Group server, with click event to quickly join ev
 
 - Plugin ID: `pcrc`
 - Plugin Name: PCRC
-- Version: 1.4.0
+- Version: None
   - Metadata version: 1.4.0
-  - Release version: 1.4.0
-- Total downloads: 476
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/Fallen-Breath/PCRC
+- Repository plugin page: https://github.com/Fallen-Breath/PCRC/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: PyCraft based Replay Client
 
@@ -2723,9 +3373,6 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.4.0) | 1.4.0 | 2022/09/30 15:07:46 | 103.03KB | 63 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.pyz) |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.3.0) | 1.3.0 | 2022/06/19 10:33:00 | 102.35KB | 239 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.3.0/PCRC.pyz) |
-| [PCRC.pyz](https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.3) | 1.2.3 | 2022/03/28 07:00:16 | 101.56KB | 110 | [Download](https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.3/PCRC.pyz) |
 
 ## permanent_backup
 
@@ -2733,12 +3380,13 @@ Display the online players for Group server, with click event to quickly join ev
 
 - Plugin ID: `permanent_backup`
 - Plugin Name: Permanent Backup
-- Version: 1.0.3
+- Version: None
   - Metadata version: 1.0.3
-  - Release version: 1.0.3
-- Total downloads: 4370
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/PermanentBackup
+- Repository plugin page: https://github.com/MCDReforged/PermanentBackup/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A plugin for creating permanent zip world backups
 
@@ -2763,9 +3411,43 @@ Display the online players for Group server, with click event to quickly join ev
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PermanentBackup-v1.0.3.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.3) | 1.0.3 | 2021/08/17 05:50:35 | 15.44KB | 1761 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.3/PermanentBackup-v1.0.3.mcdr) |
-| [PermanentBackup-v1.0.2.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.2) | 1.0.2 | 2021/08/17 05:34:54 | 15.54KB | 1305 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.2/PermanentBackup-v1.0.2.mcdr) |
-| [PermanentBackup-v1.0.1.mcdr](https://github.com/MCDReforged/PermanentBackup/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:05:01 | 15.5KB | 1304 | [Download](https://github.com/MCDReforged/PermanentBackup/releases/download/v1.0.1/PermanentBackup-v1.0.1.mcdr) |
+
+## player_last_play
+
+### Basic Information
+
+- Plugin ID: `player_last_play`
+- Plugin Name: PlayerLastPlay
+- Version: None
+  - Metadata version: 1.0.1
+  - Release version: None
+- Total downloads: 0
+- Authors: [Aimerny](https://github.com/Aimerny)
+- Repository: https://github.com/Aimerny/playerLastPlay
+- Repository plugin page: https://github.com/Aimerny/playerLastPlay/tree/master
+- Labels: [`Information`](/labels/information/readme.md)
+- Description: Record player lastime left the server
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [online_player_api](/plugins/online_player_api/readme.md) | ^1.0.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+Record the last playing time of server members to facilitate the statistics of server members' online status
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## player_manager
 
@@ -2773,12 +3455,13 @@ Display the online players for Group server, with click event to quickly join ev
 
 - Plugin ID: `player_manager`
 - Plugin Name: Player Manager
-- Version: 1.2.1
+- Version: None
   - Metadata version: 1.2.1
-  - Release version: 1.2.1
-- Total downloads: 34
+  - Release version: None
+- Total downloads: 0
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
+- Repository plugin page: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
 - Description: A MCDReforged plugin to help with managing fake players
 
@@ -2808,8 +3491,324 @@ Database-based Carpet fake player management
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.1) | 1.2.1 | 2022/07/08 07:01:25 | 5.51KB | 34 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.1/PlayerManager.mcdr) |
-| [PlayerManager.mcdr](https://github.com/PRcT-Server/MCDRPlugins/releases/tag/player_manager-v1.2.0) | 1.2.0 | 2022/07/08 00:56:25 | 5.38KB | 0 | [Download](https://github.com/PRcT-Server/MCDRPlugins/releases/download/player_manager-v1.2.0/PlayerManager.mcdr) |
+
+## qq_api
+
+### Basic Information
+
+- Plugin ID: `qq_api`
+- Plugin Name: QQAPI
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
+- Labels: [`API`](/labels/api/readme.md)
+- Description: Connect Minecraft and QQ
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
+| [uvicorn](https://pypi.org/project/uvicorn) | ==0.20.0 |
+
+### Introduction
+
+# QQAPI
+
+> QQ bot development API.
+
+## Usage
+
+### QQ Bot Configuration
+
+It is recommended to use [go-cqhttp](https://github.com/Mrs4s/go-cqhttp).
+
+Set qq account and password in `account` field:
+
+```yaml
+account:
+  uin: 1233456
+  password: ''
+```
+
+Add http server in `servers` field:
+
+```yaml
+servers:
+  - http:
+      address: 0.0.0.0:5700
+      post:
+      - url: http://127.0.0.1:5701/
+```
+
+## 配置文件
+
+`post_host`
+
+默认值: `127.0.0.1`
+
+接收转发消息的ip地址
+
+`post_port`
+
+默认值: `5701`
+
+接收转发消息的端口
+
+`api_host`
+
+默认值: `127.0.0.1`
+
+api的ip地址
+
+`api_port`
+
+默认值: `5700`
+
+api的端口
+
+### 关于多服使用
+
+`QQBridge` 是一个可以将机器人上报消息分发给多个服务器进行处理的应用。
+
+直接运行 `QQBridge.py` 即可。
+
+#### 指令
+
+| 指令 | 功能 |
+| - | - |
+| stop | 关闭QQBridge |
+| help | 获取帮助 |
+| reload config | 重载配置文件 |
+| debug thread | 查看线程列表 |
+
+#### 配置
+
+`post_host`
+
+接收上报信息的地址
+
+默认值: `127.0.0.1`
+
+`post_port`
+
+接收上报信息的端口
+
+默认值: `5701`
+
+`post_utl`
+
+接收上报信息的url
+
+默认值: `/post`
+
+以上接收上报消息的配置与 [readme.md](../readme.md) 对应
+
+`server_list`
+
+需要转发的服务器列表, 参照以下格式填写
+
+```yaml
+example:
+  host: 127.0.0.1
+  port: 5702
+  url: ''
+```
+
+默认值: 上文的例子
+
+`debug_mode`
+
+调试模式
+
+默认值: `flase`
+
+> 你还需要修改 QQAPI 配置文件的 `post_host`, `post_port` 使其与 `server_list` 的内容对应
+>
+> 建议从 `5702` 向上增加，如第一个服为 `5702` 第二个服为 `5703`
+
+## 开发
+
+[示例模范插件 QQChat](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat)
+
+### 事件
+
+当从QQ接收到消息, 会触发以下各类事件
+
+每个事件监听器需要使用 `register_event_listener` API 注册, 事件ID为 `qq_api.事件名`
+
+- `server`：[PluginServerInterface](https://mcdreforged.readthedocs.io/zh_CN/latest/code_references/PluginServerInterface.html)
+- `bot`：[CQHttp](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp)
+- `event`：[Event](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.Event)，其中 `on_message` 的参数为 `MessageEvent`，增加了 `content` 属性，为处理后的消息。
+
+| 事件 | 参考 |
+| - | - |
+| on_message(server, bot, event) | [on_message](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_message) |
+| on_notice(server, bot, event) | [on_notice](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_notice) |
+| on_request(server, bot, event) | [on_request](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_request) |
+| on_meta_event(server, bot, event) | [on_meta_event](https://aiocqhttp.nonebot.dev/module/aiocqhttp/index.html#aiocqhttp.CQHttp.on_meta_event) |
+
+### API
+
+#### get_event_loop()
+
+用于获取 `asyncio` 的 `event_loop`。
+
+#### get_bot()
+
+用于获取 `CQHttp` 的实例。
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+
+## qq_chat
+
+### Basic Information
+
+- Plugin ID: `qq_chat`
+- Plugin Name: QQChat
+- Version: None
+  - Metadata version: 1.0.1
+  - Release version: None
+- Total downloads: 0
+- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
+- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_chat
+- Labels: [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md)
+- Description: Useful Functions with QQ
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [qq_api](/plugins/qq_api/readme.md) | ^1.2.0 |
+| [online_player_api](/plugins/online_player_api/readme.md) | ^1.0.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
+
+### Introduction
+
+# QQChat
+
+> 用于连接 `Minecraft` 和 `QQ` 的插件
+
+## 配置
+
+`groups`
+
+默认值: `[1234561, 1234562]`
+
+交互的群组列表
+
+`admins`
+
+默认值: `[1234563, 1234564]`
+
+可以私聊执行管理员指令的qq号
+
+`whitelist_add_with_bound`
+
+默认值: `False`
+
+玩家绑定游戏ID时添加白名单
+
+`whitelist_remove_with_leave`
+
+默认值: `True`
+
+玩家退群时移除白名单
+
+`forwards`
+
+默认值: `{'mc_to_qq': False, 'qq_to_mc': False}`
+
+设置是否自动在 Minecraft 和 QQ 之间转发消息
+
+`commands`
+
+默认值: `{'list': True, 'mc': True, 'qq': True,}`
+
+设置是否启用命令
+
+## 功能
+
+### 普通玩家命令
+
+`/help` 查看帮助
+
+`/list` 获取在线玩家列表
+
+`/bound <ID>` 绑定你的游戏ID
+
+`/mc <msg>` 向游戏内发送消息
+
+`!!qq <msg>` 向qq群发送消息
+
+需要注意普通玩家只能在群里执行指令，而管理可以私聊执行 `/list` 和 `/mc`
+
+### 管理员命令
+
+管理员命令只能私聊机器人执行, 管理员QQ号需要添加到配置文件中
+
+#### 基础帮助
+
+`/help` 查看帮助
+
+`/bound` 查看绑定相关帮助
+
+`/whitelist` 查看白名单相关帮助
+
+`/command <command>` 执行任意指令
+
+#### 绑定相关
+
+`/bound list` 查看绑定列表
+
+`/bound check <qq number>` 查询绑定ID
+
+`/bound unbound <qq number>` 解除绑定
+
+`/bound <qq number> <ID>` 绑定新ID
+
+#### 白名单相关
+
+`/whitelist add <target>` 添加白名单成员
+
+`/whitelist list` 列出白名单成员
+
+`/whitelist off` 关闭白名单
+
+`/whitelist on` 开启白名单
+
+`/whitelist reload` 重载白名单
+
+`/whitelist remove <target>` 删除白名单成员
+
+`<target>` 可以是玩家名/目标选择器/UUID
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## quick_backup_multi
 
@@ -2817,12 +3816,13 @@ Database-based Carpet fake player management
 
 - Plugin ID: `quick_backup_multi`
 - Plugin Name: Quick Backup Multi
-- Version: 1.7.0
-  - Metadata version: 1.7.0
-  - Release version: 1.7.0
-- Total downloads: 8522
+- Version: None
+  - Metadata version: 1.8.0
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/QuickBackupM
+- Repository plugin page: https://github.com/TISUnion/QuickBackupM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A backup / restore plugin, with multiple backup slot
 
@@ -2855,9 +3855,6 @@ Features:
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [QuickBackupM-v1.7.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.7.0) | 1.7.0 | 2022/10/03 04:13:26 | 21.89KB | 437 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.7.0/QuickBackupM-v1.7.0.mcdr) |
-| [QuickBackupM-v1.6.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.6.0) | 1.6.0 | 2022/03/11 07:56:09 | 21.55KB | 1580 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.6.0/QuickBackupM-v1.6.0.mcdr) |
-| [QuickBackupM-v1.5.0.mcdr](https://github.com/TISUnion/QuickBackupM/releases/tag/v1.5.0) | 1.5.0 | 2021/12/20 19:05:06 | 21.66KB | 619 | [Download](https://github.com/TISUnion/QuickBackupM/releases/download/v1.5.0/QuickBackupM-v1.5.0.mcdr) |
 
 ## quick_run_cmd
 
@@ -2865,12 +3862,13 @@ Features:
 
 - Plugin ID: `quick_run_cmd`
 - Plugin Name: quick_run_cmd
-- Version: 2.0.0
+- Version: None
   - Metadata version: 2.0.0
-  - Release version: 2.0.0
-- Total downloads: 69
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/quick_run_cmd
+- Repository plugin page: https://github.com/R1ckyH/quick_run_cmd/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin for run command quickly.
 
@@ -2896,7 +3894,6 @@ A plugin for run command quickly
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [quick_run_cmd-2.0.0.mcdr](https://github.com/R1ckyH/quick_run_cmd/releases/tag/2.0.0) | 2.0.0 | 2021/12/24 12:37:07 | 9.28KB | 69 | [Download](https://github.com/R1ckyH/quick_run_cmd/releases/download/2.0.0/quick_run_cmd-2.0.0.mcdr) |
 
 ## region_file_updater
 
@@ -2904,12 +3901,13 @@ A plugin for run command quickly
 
 - Plugin ID: `region_file_updater`
 - Plugin Name: Region file Updater
-- Version: 1.5.2
+- Version: None
   - Metadata version: 1.5.2
-  - Release version: 1.5.2
-- Total downloads: 1697
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
+- Repository plugin page: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A MCDR plugin to help you update region files in game
 
@@ -2934,9 +3932,6 @@ A plugin for run command quickly
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [RegionfileUpdater-v1.5.2.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.2) | 1.5.2 | 2022/03/08 15:17:36 | 15.67KB | 81 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.2/RegionfileUpdater-v1.5.2.mcdr) |
-| [RegionfileUpdater-v1.5.1.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.1) | 1.5.1 | 2021/11/02 15:03:27 | 15.59KB | 73 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.1/RegionfileUpdater-v1.5.1.mcdr) |
-| [RegionfileUpdater-v1.5.0.mcdr](https://github.com/TISUnion/RegionFileUpdater/releases/tag/v1.5.0) | 1.5.0 | 2021/09/26 17:59:10 | 15.6KB | 223 | [Download](https://github.com/TISUnion/RegionFileUpdater/releases/download/v1.5.0/RegionfileUpdater-v1.5.0.mcdr) |
 
 ## renewability
 
@@ -2944,12 +3939,13 @@ A plugin for run command quickly
 
 - Plugin ID: `renewability`
 - Plugin Name: Renewability
-- Version: 1.1.0
+- Version: None
   - Metadata version: 1.1.0
-  - Release version: 1.1.0
-- Total downloads: 1151
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
+- Repository plugin page: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A plugin that allows players to clone non-renewable items
 
@@ -2974,7 +3970,6 @@ Allow players to clone non-renewable items.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Renewability.mcdr](https://github.com/Fidelxyz/MCDR-Renewability/releases/tag/v1.1.0) | 1.1.0 | 2021/09/08 03:43:00 | 6.04KB | 1151 | [Download](https://github.com/Fidelxyz/MCDR-Renewability/releases/download/v1.1.0/Renewability.mcdr) |
 
 ## run_some_commands
 
@@ -2982,12 +3977,13 @@ Allow players to clone non-renewable items.
 
 - Plugin ID: `run_some_commands`
 - Plugin Name: Run Some Commands
-- Version: 1.0.0
+- Version: None
   - Metadata version: 1.0.0
-  - Release version: 1.0.0
-- Total downloads: 1522
+  - Release version: None
+- Total downloads: 0
 - Authors: [FlyingShuriken](https://github.com/FlyingShuriken)
 - Repository: https://github.com/FlyingShuriken/MCDR-plugins
+- Repository plugin page: https://github.com/FlyingShuriken/MCDR-plugins/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Let player run whitelisted vanilla command
 
@@ -3010,7 +4006,47 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [run_some_commands_v1.0.0.mcdr](https://github.com/FlyingShuriken/MCDR-plugins/releases/tag/v1.0.0) | 1.0.0 | 2021/08/20 14:56:00 | 2.7KB | 1522 | [Download](https://github.com/FlyingShuriken/MCDR-plugins/releases/download/v1.0.0/run_some_commands_v1.0.0.mcdr) |
+
+## seed
+
+### Basic Information
+
+- Plugin ID: `seed`
+- Plugin Name: Seed
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [OptiJava](https://github.com/OptiJava)
+- Repository: https://github.com/OptiJava/Seed
+- Repository plugin page: https://github.com/OptiJava/Seed/tree/master
+- Labels: [`Information`](/labels/information/readme.md)
+- Description: Get world seed without op permission.
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.5.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+!!seed to get world seed.
+\
+You don't need to manually specify the seed in the configuration file, the plugin can obtain it automatically.
+![image](https://user-images.githubusercontent.com/106148777/221347169-1764fb31-db0c-40e5-82cf-77c1915a638c.png)
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## simple_calculator
 
@@ -3018,12 +4054,13 @@ Let player run whitelisted vanilla command
 
 - Plugin ID: `simple_calculator`
 - Plugin Name: Simple in-game calculator
-- Version: 1.2.0
+- Version: None
   - Metadata version: 1.2.0
-  - Release version: 1.2.0
-- Total downloads: 3185
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/Calculator
+- Repository plugin page: https://github.com/TISUnion/Calculator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: A Simple in-game calculator
 
@@ -3049,8 +4086,6 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleCalculator-v1.2.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:59:56 | 15.54KB | 1855 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr) |
-| [SimpleCalculator-v1.1.0.mcdr](https://github.com/TISUnion/Calculator/releases/tag/v1.1.0) | 1.1.0 | 2021/08/21 16:39:21 | 15.5KB | 1330 | [Download](https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr) |
 
 ## simple_op
 
@@ -3058,12 +4093,13 @@ Let player run whitelisted vanilla command
 
 - Plugin ID: `simple_op`
 - Plugin Name: Simple OP
-- Version: 1.2.0
+- Version: None
   - Metadata version: 1.2.0
-  - Release version: 1.2.0
-- Total downloads: 3272
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/SimpleOP
+- Repository plugin page: https://github.com/MCDReforged/SimpleOP/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: !!op to get op, !!restart to restart the server
 
@@ -3088,8 +4124,6 @@ Let player run whitelisted vanilla command
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleOP-v1.2.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.2.0) | 1.2.0 | 2021/08/26 13:44:28 | 1.93KB | 1953 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.2.0/SimpleOP-v1.2.0.mcdr) |
-| [SimpleOP-v1.1.0.mcdr](https://github.com/MCDReforged/SimpleOP/releases/tag/v1.1.0) | 1.1.0 | 2021/08/22 03:50:39 | 1.89KB | 1319 | [Download](https://github.com/MCDReforged/SimpleOP/releases/download/v1.1.0/SimpleOP-v1.1.0.mcdr) |
 
 ## simple_test
 
@@ -3097,12 +4131,13 @@ Let player run whitelisted vanilla command
 
 - Plugin ID: `simple_test`
 - Plugin Name: simple_test
-- Version: 3.0.0
+- Version: None
   - Metadata version: 3.0.0
-  - Release version: 3.0.0
-- Total downloads: 180
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/simple_test
+- Repository plugin page: https://github.com/R1ckyH/simple_test/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: testing basic server problem.
 
@@ -3129,7 +4164,6 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [simple_test-3.0.0.mcdr](https://github.com/R1ckyH/simple_test/releases/tag/v3.0.0) | 3.0.0 | 2021/10/25 09:03:07 | 6.45KB | 180 | [Download](https://github.com/R1ckyH/simple_test/releases/download/v3.0.0/simple_test-3.0.0.mcdr) |
 
 ## simple_translator
 
@@ -3137,12 +4171,13 @@ testing basic server problem.
 
 - Plugin ID: `simple_translator`
 - Plugin Name: SimpleTranslator
-- Version: 1.3.1
+- Version: None
   - Metadata version: 1.3.1
-  - Release version: 1.3.1
-- Total downloads: 41
+  - Release version: None
+- Total downloads: 0
 - Authors: [skuzow](https://github.com/skuzow)
 - Repository: https://github.com/skuzow/simple-translator
+- Repository plugin page: https://github.com/skuzow/simple-translator/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: In-game translator
 
@@ -3169,8 +4204,6 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SimpleTranslator-v1.3.1.mcdr](https://github.com/skuzow/simple-translator/releases/tag/v1.3.1) | 1.3.1 | 2022/07/12 11:30:33 | 13.5KB | 37 | [Download](https://github.com/skuzow/simple-translator/releases/download/v1.3.1/SimpleTranslator-v1.3.1.mcdr) |
-| [SimpleTranslator-v1.3.0.mcdr](https://github.com/skuzow/simple-translator/releases/tag/v1.3.0) | 1.3.0 | 2022/07/02 21:09:53 | 13.5KB | 4 | [Download](https://github.com/skuzow/simple-translator/releases/download/v1.3.0/SimpleTranslator-v1.3.0.mcdr) |
 
 ## smart_backup
 
@@ -3178,12 +4211,13 @@ testing basic server problem.
 
 - Plugin ID: `smart_backup`
 - Plugin Name: SmartBackup
-- Version: 1.4.2
+- Version: None
   - Metadata version: 1.4.2
-  - Release version: 1.4.2
-- Total downloads: 169
+  - Release version: None
+- Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_backup_mcdr
+- Repository plugin page: https://github.com/kmcsr/smart_backup_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Minecraft Backup Plugin
 
@@ -3208,9 +4242,6 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SmartBackup-v1.4.2.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.2) | 1.4.2 | 2022/05/11 17:33:33 | 26.41KB | 111 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.2/SmartBackup-v1.4.2.mcdr) |
-| [SmartBackup-v1.4.1.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.1) | 1.4.1 | 2022/05/09 01:49:49 | 12.93KB | 6 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.1/SmartBackup-v1.4.1.mcdr) |
-| [SmartBackup-v1.4.0.mcdr](https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.4.0) | 1.4.0 | 2022/05/07 19:37:53 | 12.93KB | 3 | [Download](https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.4.0/SmartBackup-v1.4.0.mcdr) |
 
 ## smart_servertime
 
@@ -3218,12 +4249,13 @@ testing basic server problem.
 
 - Plugin ID: `smart_servertime`
 - Plugin Name: SmartServerTime
-- Version: 1.3.0
+- Version: None
   - Metadata version: 1.3.0
-  - Release version: 1.3.0
-- Total downloads: 145
+  - Release version: None
+- Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
+- Repository plugin page: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Minecraft Auto Start/Stop Plugin
 
@@ -3251,9 +4283,6 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 11 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
-| [SmartServerTime-v1.2.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.4) | 1.2.4 | 2022/11/22 00:58:06 | 17.54KB | 2 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.4/SmartServerTime-v1.2.4.mcdr) |
-| [SmartServerTime-v1.2.3.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.3) | 1.2.3 | 2022/11/20 20:44:57 | 17.49KB | 1 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.3/SmartServerTime-v1.2.3.mcdr) |
 
 ## start_stop_helper_r
 
@@ -3261,12 +4290,13 @@ testing basic server problem.
 
 - Plugin ID: `start_stop_helper_r`
 - Plugin Name: StartStopHelperR
-- Version: 0.1.0
+- Version: None
   - Metadata version: 0.1.0
-  - Release version: 0.1.0
-- Total downloads: 1938
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/start_stop_helper_r
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Start and stop server helper
 
@@ -3322,8 +4352,6 @@ testing basic server problem.
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StartStopHelperR-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.1.0) | 0.1.0 | 2022/06/30 10:01:17 | 1.71KB | 262 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.1.0/StartStopHelperR-v0.1.0.mcdr) |
-| [StartStopHelperR-v0.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/start_stop_helper_r-v0.0.2) | 0.0.2 | 2021/08/23 07:05:20 | 1.72KB | 1676 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/start_stop_helper_r-v0.0.2/StartStopHelperR-v0.0.2.mcdr) |
 
 ## stats_helper
 
@@ -3331,12 +4359,13 @@ testing basic server problem.
 
 - Plugin ID: `stats_helper`
 - Plugin Name: Stats Helper
-- Version: 7.5.1
+- Version: None
   - Metadata version: 7.5.1
-  - Release version: 7.5.1
-- Total downloads: 6595
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
+- Repository plugin page: https://github.com/TISUnion/StatsHelper/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
 - Description: A Minecraft statistic helper
 
@@ -3362,9 +4391,67 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 642 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
-| [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 123 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
-| [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 73 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
+
+## the_offline_ops
+
+### Basic Information
+
+- Plugin ID: `the_offline_ops`
+- Plugin Name: The Offline ops
+- Version: None
+  - Metadata version: 1.1
+  - Release version: None
+- Total downloads: 0
+- Authors: [ltBerryshdo](https://github.com/ltBerryshdo)
+- Repository: https://github.com/ltBerryshdo/the_offline_ops
+- Repository plugin page: https://github.com/ltBerryshdo/the_offline_ops/tree/main
+- Labels: [`Management`](/labels/management/readme.md)
+- Description: Check the player's IP to prevent impersonation of logging into the offline server
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+## :page_facing_up: Description
+Check the player's IP to prevent impersonation of logging into the <strong><em>offline</em></strong> server<br>
+检测玩家IP以防止冒名登陆<strong><em>离线</em></strong>服务器<br>
+## :telescope: How the plugin work
+This plugin will check player's IP when a player join the server. If the IP is NOT match the record, then kick the player and broadcast in server.<br>
+这个插件会在玩家进入服务器时检查玩家的IP地址，如果与记录不符，则将玩家踢出并全服广播<br>
+## :balloon: Lightweight, plug and play
+Simpler, lightweight, plug and play<br>
+更简单、轻量化，即插即用<br>
+## :exclamation: Warning
+Only matches the IP address received by the server and player name, and the player original IP cannot be obtained for similar proxy connections. More details in README file<br>
+插件只匹配服务器接收到的的IP地址和玩家名，对类似代理的方式连接则没法获取玩家源IP，详见README文件<br>
+## :snake: Commands
+**All the commands need MCDR permissions at least level 2**<br>
+**所有命令都需要MCDR 2级权限**<br>
+
+|command|description|
+|---------|-------|
+|`!!offlineops`|view the commands list  查看命令列表|
+|`!!offlineops` `notOpsPlayerProtect`/ `nopp`|nomal player protect options  非管理员玩家保护开关|
+|`!!offlineops` `protectPlayer`/ `pp`|add protected player  添加受保护的玩家|
+|`!!offlineops` `allPlayerProtect`/ `app`|all players protect options  全体玩家保护开关|
+|`!!offlineops` `multi-ip`|get a chance to append new IP 获得追加新IP的机会|
+|`!!offlineops` `delIP`|delete player's or all the IP record  清除对应或全部玩家的IP记录|
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## timed_quick_backup_multi
 
@@ -3372,12 +4459,13 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 - Plugin ID: `timed_quick_backup_multi`
 - Plugin Name: Timed QBM
-- Version: 1.1.0
-  - Metadata version: 1.2.0
-  - Release version: 1.1.0
-- Total downloads: 2610
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
+- Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
+- Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: A Quick-Backup-Multi extension for automatically trigger QBM at given interval
 
@@ -3402,8 +4490,102 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TimedQBM-v1.1.0.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.1.0) | 1.1.0 | 2022/03/05 06:45:06 | 16.95KB | 845 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.1.0/TimedQBM-v1.1.0.mcdr) |
-| [TimedQBM-v1.0.1.mcdr](https://github.com/TISUnion/TimedQBM/releases/tag/v1.0.1) | 1.0.1 | 2021/08/16 17:10:01 | 16.05KB | 1765 | [Download](https://github.com/TISUnion/TimedQBM/releases/download/v1.0.1/TimedQBM-v1.0.1.mcdr) |
+
+## todolist
+
+### Basic Information
+
+- Plugin ID: `todolist`
+- Plugin Name: ToDoList
+- Version: None
+  - Metadata version: 1.1.1
+  - Release version: None
+- Total downloads: 0
+- Authors: [Flash-Z](https://github.com/Flash-Z)
+- Repository: https://github.com/Flash-Z/MCDReforgedPlugins
+- Repository plugin page: https://github.com/Flash-Z/MCDReforgedPlugins/tree/master/ToDoList
+- Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
+- Description: ToDoList
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# MCDR-ToDoList
+适用于[MCDR](https://github.com/Fallen-Breath/MCDReforged)的ToDoList插件，可查看项目名称、描述、进度及创建者等
+## 展示:
+![!!td list](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-20.png)
+![!!td tag](https://raw.githubusercontent.com/Flash-Z/MCDR-ToDoList/main/assets/Snipaste_2023-03-19_10-01-54.png)
+## 操作:
+| 指令 | 用途 |
+| - | - |
+| !!td | 展示帮助界面 |
+| !!td list | 展示ToDo列表 |
+| !!td add \<name> (\<detail> \<progress>) | 添加项目,后两项为可选参数 |
+| !!td del \<name> | 删除名为\<name>的项目 |
+| !!td reload | 重载配置文件 |
+| !!td tag | 列出所有tag |
+| !!td tag \<tag> | 列出\<tag>下的项目 |
+| !!td tag add \<name> \<tag> | 为\<name>项目添加\<tag> |
+| !!td tag del \<name> \<tag> | 为\<name>项目删除\<tag> |
+注：指令第二项也可只输入首字母，如 !!td list->!!td l
+
+## ToDo:
+1. 分页功能
+2. 更加便捷的tag操作（思路不多）
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+
+## tpm
+
+### Basic Information
+
+- Plugin ID: `tpm`
+- Plugin Name: TpManager
+- Version: None
+  - Metadata version: 0.3.3
+  - Release version: None
+- Total downloads: 0
+- Authors: [zyxkad](https://github.com/zyxkad)
+- Repository: https://github.com/kmcsr/tpmanager_mcdr
+- Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: A Minecraft teleport manager
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ~2.3.0 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.2 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+*None*
+
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## uuid_api
 
@@ -3411,12 +4593,13 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 - Plugin ID: `uuid_api`
 - Plugin Name: UUIDAPI
-- Version: 0.1.1
+- Version: None
   - Metadata version: 0.1.1
-  - Release version: 0.1.1
-- Total downloads: 53
+  - Release version: None
+- Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api
 - Labels: [`API`](/labels/api/readme.md)
 - Description: UUID API
 
@@ -3456,8 +4639,43 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [UUIDAPI-v0.1.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/uuid_api-v0.1.1) | 0.1.1 | 2022/06/30 12:08:40 | 1.41KB | 39 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/uuid_api-v0.1.1/UUIDAPI-v0.1.1.mcdr) |
-| [UUIDAPI-v0.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/uuid_api-v0.1.0) | 0.1.0 | 2022/06/30 10:03:54 | 1.42KB | 14 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/uuid_api-v0.1.0/UUIDAPI-v0.1.0.mcdr) |
+
+## welcome_msg
+
+### Basic Information
+
+- Plugin ID: `welcome_msg`
+- Plugin Name: welcome_msg
+- Version: None
+  - Metadata version: 1.1.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [JAs0n](https://github.com/JAs0n319)
+- Repository: https://github.com/JAs0n319/Welcome_MSG
+- Repository plugin page: https://github.com/JAs0n319/Welcome_MSG/tree/master
+- Labels: [`Information`](/labels/information/readme.md)
+- Description: Send welcome Msg to all player
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+Send welcome message
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## where_is
 
@@ -3465,12 +4683,13 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 - Plugin ID: `where_is`
 - Plugin Name: Where Is
-- Version: 2.0.2
+- Version: None
   - Metadata version: 2.0.2+build.6
-  - Release version: 2.0.2
-- Total downloads: 752
+  - Release version: None
+- Total downloads: 0
 - Authors: [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/Lazy-Bing-Server/WhereIs-MCDR
+- Repository plugin page: https://github.com/Lazy-Bing-Server/WhereIs-MCDR/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Query players' coordinates
 
@@ -3497,9 +4716,78 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WhereIs-v2.0.2+build.6.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.2) | 2.0.2 | 2022/07/20 15:56:45 | 19.47KB | 328 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.2/WhereIs-v2.0.2%2Bbuild.6.mcdr) |
-| [WhereIs-v2.0.1+build.4.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.1) | 2.0.1 | 2022/07/04 11:22:55 | 19.47KB | 61 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.1/WhereIs-v2.0.1%2Bbuild.4.mcdr) |
-| [WhereIs-v2.0.0+build.3.mcdr](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/tag/2.0.0) | 2.0.0 | 2022/07/03 09:33:15 | 19.47KB | 6 | [Download](https://github.com/Lazy-Bing-Server/WhereIs-MCDR/releases/download/2.0.0/WhereIs-v2.0.0%2Bbuild.3.mcdr) |
+
+## whisper
+
+### Basic Information
+
+- Plugin ID: `whisper`
+- Plugin Name: Whisper
+- Version: None
+  - Metadata version: 1.0
+  - Release version: None
+- Total downloads: 0
+- Authors: [ltBerryshdo](https://github.com/ltBerryshdo)
+- Repository: https://github.com/ltBerryshdo/Whisper
+- Repository plugin page: https://github.com/ltBerryshdo/Whisper/tree/main
+- Labels: [`Tool`](/labels/tool/readme.md)
+- Description: Send some private message to others in a faster way.(Vanilla feature supplements)
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+
+### Introduction
+
+# Whisper
+[中文](./README.md)<br>
+A **[MCDReforged](https://github.com/Fallen-Breath/MCDReforged) plugin**<br>
+More plugins click *[here](https://github.com/MCDReforged/PluginCatalogue)*
+
+[![issue](https://img.shields.io/github/issues/ltBerryshdo/Whisper?color=orange)](https://github.com/ltBerryshdo/Whisper/issues)
+[![Github stars](https://img.shields.io/github/stars/ltBerryshdo/Whisper)]()
+## Description
+Send some private message to others at same time in easier way.<br>
+Use triggers (default<strong>'**'</strong>) to send private messages to everyone the player specifies.
+## How to use
+1. Use `!!whisper <player>` command add player(s) can receive private message
+2. Prepare a writable_book and rename it to "MCDRwhisper" and place it in the hotbar
+3. Write your whispered words in writable_book~, be careful not to break lines
+4. Then enter the default trigger ** in the chat bar
+5. They should be able to hear from you~
+6. Before whispering the next time, remember to empty the contents of the writable_book ~~（I originally wanted to clear it automatically, but I won't use /data command）~~
+7. Just that, you can avoid using commands such as /tell to send messages to different people one by one
+## Attention
+- The message to be sent needs to be written in a writable_book called <strong>"MCDRwhisper"</strong> in the hotbar
+- Make sure there is no <strong>LINE BREAKS</strong> in the message to be sent
+- Before whispering the next time, remember to <strong>EMPTY</strong> the contents of the writable_book
+## Dependencies
+|Plugin ID|Requirement|
+|-------|-------|
+|[minecraft_data_api](https://github.com/MCDReforged/PluginCatalogue/blob/catalogue/plugins/minecraft_data_api/readme.md)|*|
+## Command
+|command|description|
+|---------|-------|
+|`!!whisper`|Display this message|
+|`!!whisper` `<player>`|Add target players to receive private message(Multiple parameters are acceptable)|
+|`!!whisper` `list`|Display all the player in the list|
+|`!!whisper` `clear`|Delete the list|
+|`!!whisper` `delmum` `<player>`|Delete player(Multiple parameters are acceptable)|
+|`!!whisper` `cp` `<name>`|Copy someone's contacts|
+### Download
+
+> :warning: Warning: Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
 
 ## wiki_request
 
@@ -3507,12 +4795,13 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 - Plugin ID: `wiki_request`
 - Plugin Name: Wiki Request
-- Version: 3.0
+- Version: None
   - Metadata version: 3.0
-  - Release version: 3.0
-- Total downloads: 264
+  - Release version: None
+- Total downloads: 0
 - Authors: [DrLee_lihr](https://github.com/DrLee-lihr)
 - Repository: https://github.com/DrLee-lihr/WikiRequest
+- Repository plugin page: https://github.com/DrLee-lihr/WikiRequest/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: A plugin to look up any MediaWiki
 
@@ -3538,7 +4827,6 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WikiRequest-v3.0.mcdr](https://github.com/DrLee-lihr/WikiRequest/releases/tag/v3.0) | 3.0 | 2021/10/17 10:56:07 | 2.8KB | 264 | [Download](https://github.com/DrLee-lihr/WikiRequest/releases/download/v3.0/WikiRequest-v3.0.mcdr) |
 
 ## world_copier
 
@@ -3546,12 +4834,13 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 - Plugin ID: `world_copier`
 - Plugin Name: World Copier
-- Version: 0.1.0
+- Version: None
   - Metadata version: 0.1.0
-  - Release version: 0.1.0
-- Total downloads: 96
+  - Release version: None
+- Total downloads: 0
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/MCDReforged/WorldCopier
+- Repository plugin page: https://github.com/MCDReforged/WorldCopier/tree/main/src
 - Labels: [`Management`](/labels/management/readme.md)
 - Description: Sync your mirror server with main server.
 
@@ -3575,52 +4864,4 @@ It's a plugin to look up any MediaWiki (such as Minecraft Wiki,and so on) and re
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [WorldCopier-v0.1.0.mcdr](https://github.com/MCDReforged/WorldCopier/releases/tag/v0.1.0) | 0.1.0 | 2022/04/03 07:41:35 | 3.07KB | 96 | [Download](https://github.com/MCDReforged/WorldCopier/releases/download/v0.1.0/WorldCopier-v0.1.0.mcdr) |
-
-## xiaohuihuis_big_pie
-
-### Basic Information
-
-- Plugin ID: `xiaohuihuis_big_pie`
-- Plugin Name: XiaoHuiHui's Big Pie
-- Version: 0.0.1
-  - Metadata version: 0.0.2
-  - Release version: 0.0.1
-- Total downloads: 66
-- Authors: [Andy Zhang](https://github.com/AnzhiZhang)
-- Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- Labels: [`Information`](/labels/information/readme.md), [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md), [`API`](/labels/api/readme.md)
-- Description: Run any Python code in game!
-
-### Dependencies
-
-| Plugin ID | Requirement |
-| --- | --- |
-
-### Requirements
-
-| Python package | Requirement |
-| --- | --- |
-
-### Introduction
-
-# XiaoHuiHui's Big Pie
-
-> 小灰灰的游戏内执行 Python 语句大饼
->
-> Run any Python code in game!
-
-## 使用
-
-使用 `!!xhh start` 开始编写，以 `!!xhh stop` 结束
-
-您需要使用 `raise` 来返回结果
-
-### Download
-
-> :warning: Warning: Read the README file in plugin repository before using it.
-
-| File | Version | Upload Time | Size | Downloads | Operations |
-| --- | --- | --- | --- | --- | --- |
-| [XiaoHuiHui.sBigPie-v0.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/xiaohuihuis_big_pie-0.0.1) | 0.0.1 | 2022/05/21 16:10:31 | 1.15KB | 66 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/xiaohuihuis_big_pie-0.0.1/XiaoHuiHui.sBigPie-v0.0.1.mcdr) |
 

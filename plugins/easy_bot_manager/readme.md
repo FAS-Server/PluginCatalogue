@@ -8,12 +8,13 @@
 
 - Plugin ID: `easy_bot_manager`
 - Plugin Name: Easy Bot Manager
-- Version: 0.2
+- Version: None
   - Metadata version: 0.2
-  - Release version: 0.2
-- Total downloads: 34
+  - Release version: None
+- Total downloads: 0
 - Authors: [LiuTed](https://github.com/LiuTed)
 - Repository: https://github.com/LiuTed/EasyBotManager
+- Repository plugin page: https://github.com/LiuTed/EasyBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Easy-to-use Carpet Bot Manager Plugin
 
@@ -40,6 +41,4 @@
 
 | File | Version | Upload Time | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [EasyBotManager-v0.2.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.2) | 0.2 | 2022/06/23 07:16:44 | 9.15KB | 34 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.2/EasyBotManager-v0.2.mcdr) |
-| [EasyBotManager-v0.1.mcdr](https://github.com/LiuTed/EasyBotManager/releases/tag/v0.1) | 0.1 | 2022/06/23 07:15:45 | 7.37KB | 0 | [Download](https://github.com/LiuTed/EasyBotManager/releases/download/v0.1/EasyBotManager-v0.1.mcdr) |
 

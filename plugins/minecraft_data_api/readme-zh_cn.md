@@ -8,12 +8,13 @@
 
 - 插件 ID: `minecraft_data_api`
 - 插件名: Minecraft Data API
-- 版本: 1.4.1
+- 版本: None
   - 元数据版本: 1.4.1
-  - 发布版本: 1.4.1
-- 总下载量: 3751
+  - 发布版本: None
+- 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
+- 仓库插件页: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 一个用获得玩家信息等数据的的 API
 
@@ -41,5 +42,4 @@
 
 | 文件 | 版本 | 上传时间 | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 3751 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
