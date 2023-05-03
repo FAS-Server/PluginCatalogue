@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "where_is",
   "name": "Where Is",
   "version": "2.0.2+build.6",
   "repository": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
-  "labels": [
-    "information"
-  ],
+  "link": "https://github.com/Lazy-Bing-Server/WhereIs-MCDR",
   "authors": [
     "Ra1ny_Yuki"
   ],

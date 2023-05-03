@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "mcd_task",
   "name": "Task",
-  "version": "2.3.4+build.66",
+  "version": "2.3.5+build.67",
   "repository": "https://github.com/TISUnion/Task",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/TISUnion/Task",
   "authors": [
     "Pandaria",
     "Fallen_Breath",

@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "world_copier",
   "name": "World Copier",
   "version": "0.1.0",
   "repository": "https://github.com/MCDReforged/WorldCopier",
-  "labels": [
-    "management"
-  ],
+  "link": "https://github.com/MCDReforged/WorldCopier",
   "authors": [
     "Alex3236"
   ],

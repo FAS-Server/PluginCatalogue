@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "carpet_bot_manager",
   "name": "Carpet Bot Manager",
   "version": "0.3.0",
   "repository": "https://github.com/FAS-Server/CarpetBotManager",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/FAS-Server/CarpetBotManager",
   "authors": [
     "YehowahLiu"
   ],

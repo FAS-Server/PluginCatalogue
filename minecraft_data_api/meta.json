@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "minecraft_data_api",
   "name": "Minecraft Data API",
   "version": "1.4.1",
   "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
-  "labels": [
-    "api"
-  ],
+  "link": "https://github.com/MCDReforged/MinecraftDataAPI",
   "authors": [
     "Fallen_Breath"
   ],

@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "database_api",
   "name": "DatabaseAPI",
   "version": "0.1.1",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-  "labels": [
-    "api"
-  ],
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api",
   "authors": [
     "Andy Zhang"
   ],

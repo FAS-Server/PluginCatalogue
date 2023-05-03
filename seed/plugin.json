@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "seed",
+  "authors": [
+    "OptiJava"
+  ],
+  "repository": "https://github.com/OptiJava/Seed",
+  "branch": "master",
+  "related_path": ".",
+  "labels": [
+    "information"
+  ],
+  "introduction": {
+    "en_us": "!!seed to get world seed.\n\\\nYou don't need to manually specify the seed in the configuration file, the plugin can obtain it automatically.\n![image](https://user-images.githubusercontent.com/106148777/221347169-1764fb31-db0c-40e5-82cf-77c1915a638c.png)\n",
+    "zh_cn": "!!seed指令获取服务器种子，无需手动在配置文件中指定种子，插件可以自动获取\n![image](https://user-images.githubusercontent.com/106148777/221347169-1764fb31-db0c-40e5-82cf-77c1915a638c.png)\n"
+  }
+}

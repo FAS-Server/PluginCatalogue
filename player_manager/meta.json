@@ -1,12 +1,10 @@
 {
+  "schema_version": 3,
   "id": "player_manager",
   "name": "Player Manager",
   "version": "1.2.1",
   "repository": "https://github.com/PRcT-Server/MCDRPlugins",
-  "labels": [
-    "tool",
-    "management"
-  ],
+  "link": "https://github.com/linstar-fxt",
   "authors": [
     "hail122"
   ],

@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "mcdrpost",
   "name": "MCDRpost",
   "version": "2.1.0",
   "repository": "https://github.com/Flyky/MCDRpost",
-  "labels": [
-    "tool"
-  ],
+  "link": "https://github.com/Flyky/MCDRpost",
   "authors": [
     "Flyky"
   ],

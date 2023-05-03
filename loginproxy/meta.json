@@ -1,19 +1,16 @@
 {
+  "schema_version": 3,
   "id": "loginproxy",
   "name": "LoginProxy",
-  "version": "0.4.0",
+  "version": "0.5.3",
   "repository": "https://github.com/kmcsr/login_proxy_mcdr",
-  "labels": [
-    "management",
-    "information",
-    "api"
-  ],
+  "link": "https://github.com/kmcsr/login_proxy_mcdr",
   "authors": [
     "zyxkad"
   ],
   "dependencies": {
-    "mcdreforged": ">=2.0.0",
-    "kpi": ">=1.3.0"
+    "mcdreforged": "^2.3.0",
+    "kpi": "~1.4.5"
   },
   "requirements": [],
   "description": {

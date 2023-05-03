@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "qq_chat",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": "qq_chat",
+  "labels": [
+    "information",
+    "management"
+  ],
+  "introduction": {
+    "en_us": "# QQChat\n\n> 用于连接 `Minecraft` 和 `QQ` 的插件\n\n## 配置\n\n`groups`\n\n默认值: `[1234561, 1234562]`\n\n交互的群组列表\n\n`admins`\n\n默认值: `[1234563, 1234564]`\n\n可以私聊执行管理员指令的qq号\n\n`whitelist_add_with_bound`\n\n默认值: `False`\n\n玩家绑定游戏ID时添加白名单\n\n`whitelist_remove_with_leave`\n\n默认值: `True`\n\n玩家退群时移除白名单\n\n`forwards`\n\n默认值: `{'mc_to_qq': False, 'qq_to_mc': False}`\n\n设置是否自动在 Minecraft 和 QQ 之间转发消息\n\n`commands`\n\n默认值: `{'list': True, 'mc': True, 'qq': True,}`\n\n设置是否启用命令\n\n## 功能\n\n### 普通玩家命令\n\n`/help` 查看帮助\n\n`/list` 获取在线玩家列表\n\n`/bound <ID>` 绑定你的游戏ID\n\n`/mc <msg>` 向游戏内发送消息\n\n`!!qq <msg>` 向qq群发送消息\n\n需要注意普通玩家只能在群里执行指令，而管理可以私聊执行 `/list` 和 `/mc`\n\n### 管理员命令\n\n管理员命令只能私聊机器人执行, 管理员QQ号需要添加到配置文件中\n\n#### 基础帮助\n\n`/help` 查看帮助\n\n`/bound` 查看绑定相关帮助\n\n`/whitelist` 查看白名单相关帮助\n\n`/command <command>` 执行任意指令\n\n#### 绑定相关\n\n`/bound list` 查看绑定列表\n\n`/bound check <qq number>` 查询绑定ID\n\n`/bound unbound <qq number>` 解除绑定\n\n`/bound <qq number> <ID>` 绑定新ID\n\n#### 白名单相关\n\n`/whitelist add <target>` 添加白名单成员\n\n`/whitelist list` 列出白名单成员\n\n`/whitelist off` 关闭白名单\n\n`/whitelist on` 开启白名单\n\n`/whitelist reload` 重载白名单\n\n`/whitelist remove <target>` 删除白名单成员\n\n`<target>` 可以是玩家名/目标选择器/UUID\n",
+    "zh_cn": "# QQChat\n\n> 用于连接 `Minecraft` 和 `QQ` 的插件\n\n## 配置\n\n`groups`\n\n默认值: `[1234561, 1234562]`\n\n交互的群组列表\n\n`admins`\n\n默认值: `[1234563, 1234564]`\n\n可以私聊执行管理员指令的qq号\n\n`whitelist_add_with_bound`\n\n默认值: `False`\n\n玩家绑定游戏ID时添加白名单\n\n`whitelist_remove_with_leave`\n\n默认值: `True`\n\n玩家退群时移除白名单\n\n`forwards`\n\n默认值: `{'mc_to_qq': False, 'qq_to_mc': False}`\n\n设置是否自动在 Minecraft 和 QQ 之间转发消息\n\n`commands`\n\n默认值: `{'list': True, 'mc': True, 'qq': True,}`\n\n设置是否启用命令\n\n## 功能\n\n### 普通玩家命令\n\n`/help` 查看帮助\n\n`/list` 获取在线玩家列表\n\n`/bound <ID>` 绑定你的游戏ID\n\n`/mc <msg>` 向游戏内发送消息\n\n`!!qq <msg>` 向qq群发送消息\n\n需要注意普通玩家只能在群里执行指令，而管理可以私聊执行 `/list` 和 `/mc`\n\n### 管理员命令\n\n管理员命令只能私聊机器人执行, 管理员QQ号需要添加到配置文件中\n\n#### 基础帮助\n\n`/help` 查看帮助\n\n`/bound` 查看绑定相关帮助\n\n`/whitelist` 查看白名单相关帮助\n\n`/command <command>` 执行任意指令\n\n#### 绑定相关\n\n`/bound list` 查看绑定列表\n\n`/bound check <qq number>` 查询绑定ID\n\n`/bound unbound <qq number>` 解除绑定\n\n`/bound <qq number> <ID>` 绑定新ID\n\n#### 白名单相关\n\n`/whitelist add <target>` 添加白名单成员\n\n`/whitelist list` 列出白名单成员\n\n`/whitelist off` 关闭白名单\n\n`/whitelist on` 开启白名单\n\n`/whitelist reload` 重载白名单\n\n`/whitelist remove <target>` 删除白名单成员\n\n`<target>` 可以是玩家名/目标选择器/UUID\n"
+  }
+}

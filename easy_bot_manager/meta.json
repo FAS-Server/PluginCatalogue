@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "easy_bot_manager",
   "name": "Easy Bot Manager",
   "version": "0.2",
   "repository": "https://github.com/LiuTed/EasyBotManager",
-  "labels": [
-    "tool"
-  ],
+  "link": null,
   "authors": [
     "LiuTed"
   ],

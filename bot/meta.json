@@ -1,17 +1,16 @@
 {
+  "schema_version": 3,
   "id": "bot",
   "name": "Bot",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
-  "labels": [
-    "tool",
-    "management"
-  ],
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
   "authors": [
     "Andy Zhang"
   ],
   "dependencies": {
-    "mcdreforged": "^2.5",
+    "mcdreforged": "^2.6.0",
+    "dict_command_registration": "^1.0.0",
     "minecraft_data_api": "^1.4",
     "more_command_nodes": "^1.1.0"
   },

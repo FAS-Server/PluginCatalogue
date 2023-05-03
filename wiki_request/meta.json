@@ -1,11 +1,10 @@
 {
+  "schema_version": 3,
   "id": "wiki_request",
   "name": "Wiki Request",
   "version": "3.0",
   "repository": "https://github.com/DrLee-lihr/WikiRequest",
-  "labels": [
-    "information"
-  ],
+  "link": "https://github.com/DrLee-lihr/WikiRequest",
   "authors": [
     "DrLee_lihr"
   ],
