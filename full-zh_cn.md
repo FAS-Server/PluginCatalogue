@@ -4562,7 +4562,7 @@ Only matches the IP address received by the server and player name, and the play
 - 插件 ID: `todolist`
 - 插件名: ToDoList
 - 版本: None
-  - 元数据版本: 1.1.2
+  - 元数据版本: 1.1.3
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Flash-Z](https://github.com/Flash-Z)
