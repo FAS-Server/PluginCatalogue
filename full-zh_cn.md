@@ -3484,7 +3484,7 @@ classDiagram
 - 插件 ID: `player_last_play`
 - 插件名: PlayerLastPlay
 - 版本: None
-  - 元数据版本: 1.0.2
+  - 元数据版本: 1.0.3
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Aimerny](https://github.com/Aimerny)
