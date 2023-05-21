@@ -4589,7 +4589,7 @@ Only matches the IP address received by the server and player name, and the play
 - 插件 ID: `tpm`
 - 插件名: TpManager
 - 版本: None
-  - 元数据版本: 0.3.3
+  - 元数据版本: 0.3.4
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -4602,8 +4602,8 @@ Only matches the IP address received by the server and player name, and the play
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ~2.3.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.2 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.3 |
 
 ### 包依赖
 
