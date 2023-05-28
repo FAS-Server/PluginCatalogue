@@ -28,7 +28,7 @@
 
 | Python package | Requirement |
 | --- | --- |
-| [requests](https://pypi.org/project/requests) | ==2.26.0 |
+| [requests](https://pypi.org/project/requests) | \>=2.26.0 |
 
 ### Introduction
 
