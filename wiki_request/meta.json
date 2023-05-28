@@ -12,7 +12,7 @@
     "mcdreforged": ">=2.0.0-alpha.1"
   },
   "requirements": [
-    "requests==2.26.0"
+    "requests>=2.26.0"
   ],
   "description": {
     "en_us": "A plugin to look up any MediaWiki",
