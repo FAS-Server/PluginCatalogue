@@ -9,7 +9,7 @@
 - Plugin ID: `bot_plugin`
 - Plugin Name: Bot Plugin
 - Version: None
-  - Metadata version: 1.0.0
+  - Metadata version: 1.1.0
   - Release version: None
 - Total downloads: 0
 - Authors: [DancingSnow0517](https://github.com/DancingSnow0517)
