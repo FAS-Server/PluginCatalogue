@@ -11,9 +11,7 @@
   "dependencies": {
     "mcdreforged": ">=2.0.0"
   },
-  "requirements": [
-    "parse"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "A api plugin to get the Minecraft server version",
     "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
