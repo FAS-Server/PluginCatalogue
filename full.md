@@ -2196,7 +2196,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Plugin ID: `location_marker`
 - Plugin Name: Location Marker
 - Version: None
-  - Metadata version: 1.3.1
+  - Metadata version: 1.3.2
   - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)

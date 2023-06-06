@@ -9,7 +9,7 @@
 - 插件 ID: `location_marker`
 - 插件名: Location Marker
 - 版本: None
-  - 元数据版本: 1.3.1
+  - 元数据版本: 1.3.2
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
