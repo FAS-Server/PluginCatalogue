@@ -9,7 +9,7 @@
 - 插件 ID: `loginproxy`
 - 插件名: LoginProxy
 - 版本: None
-  - 元数据版本: 0.5.3
+  - 元数据版本: 0.6.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
@@ -23,7 +23,7 @@
 | 插件 ID | 依赖需求 |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.5 |
+| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.6 |
 
 ### 包依赖
 

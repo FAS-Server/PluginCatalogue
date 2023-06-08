@@ -2235,7 +2235,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Plugin ID: `loginproxy`
 - Plugin Name: LoginProxy
 - Version: None
-  - Metadata version: 0.5.3
+  - Metadata version: 0.6.0
   - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
@@ -2249,7 +2249,7 @@ Browse / Import / Export files in the server in Minecraft!
 | Plugin ID | Requirement |
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
-| [kpi](/plugins/kpi/readme.md) | ~1.4.5 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.6 |
 
 ### Requirements
 
