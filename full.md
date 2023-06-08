@@ -3501,7 +3501,7 @@ Database-based Carpet fake player management
 - Plugin ID: `qq_api`
 - Plugin Name: QQAPI
 - Version: None
-  - Metadata version: 1.2.0
+  - Metadata version: 1.2.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
