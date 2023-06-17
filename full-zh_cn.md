@@ -2550,7 +2550,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 插件 ID: `minecraft_command_register`
 - 插件名: Minecraft Command Register
 - 版本: None
-  - 元数据版本: 1.4.0
+  - 元数据版本: 1.4.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
@@ -2563,7 +2563,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.9.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.9.1 |
 
 ### 包依赖
 
@@ -2597,6 +2597,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 | 2.8.3 | 1.3.2 |
 | 2.8.4 | None  |
 | 2.9.0 | 1.4.0 |
+| 2.9.1 | 1.4.1 |
 
 ## 安装指南
 
