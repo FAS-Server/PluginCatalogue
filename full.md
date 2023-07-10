@@ -2622,7 +2622,7 @@ A MCDR plugin for post/teleport items
 - Plugin ID: `minecraft_data_api`
 - Plugin Name: Minecraft Data API
 - Version: None
-  - Metadata version: 1.4.1
+  - Metadata version: 1.5.0
   - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
@@ -2635,7 +2635,7 @@ A MCDR plugin for post/teleport items
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 

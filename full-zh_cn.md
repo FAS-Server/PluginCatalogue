@@ -2621,7 +2621,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 插件 ID: `minecraft_data_api`
 - 插件名: Minecraft Data API
 - 版本: None
-  - 元数据版本: 1.4.1
+  - 元数据版本: 1.5.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
@@ -2634,7 +2634,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
