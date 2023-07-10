@@ -9,7 +9,7 @@
 - 插件 ID: `mcd_task`
 - 插件名: Task
 - 版本: None
-  - 元数据版本: 2.3.5+build.67
+  - 元数据版本: 2.3.6+build.68
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
@@ -28,6 +28,8 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### 介绍
 
