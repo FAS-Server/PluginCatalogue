@@ -9,7 +9,7 @@
 - Plugin ID: `uuid_api`
 - Plugin Name: UUIDAPI
 - Version: None
-  - Metadata version: 0.1.1
+  - Metadata version: 0.1.2
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -27,6 +27,7 @@
 
 | Python package | Requirement |
 | --- | --- |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### Introduction
 

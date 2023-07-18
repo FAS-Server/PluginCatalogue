@@ -2552,7 +2552,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 - 插件 ID: `minecraft_command_register`
 - 插件名: Minecraft Command Register
 - 版本: None
-  - 元数据版本: 1.4.1
+  - 元数据版本: 1.5.0
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
@@ -2565,7 +2565,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.9.1 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.10.0 |
 
 ### 包依赖
 
@@ -2588,24 +2588,33 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | MCDR 版本 | 插件版本 |
 | - | - |
-| 2.6.0 | 1.2.0 |
-| 2.6.1 | 1.2.1 |
-| 2.7.0 | 1.2.2 |
-| 2.7.1 | 1.2.3 |
-| 2.7.2 | 1.2.4 |
-| 2.8.0 | None  |
-| 2.8.1 | 1.3.0 |
-| 2.8.2 | 1.3.1 |
-| 2.8.3 | 1.3.2 |
-| 2.8.4 | None  |
-| 2.9.0 | 1.4.0 |
-| 2.9.1 | 1.4.1 |
+| 2.6.0  | 1.2.0 |
+| 2.6.1  | 1.2.1 |
+| 2.7.0  | 1.2.2 |
+| 2.7.1  | 1.2.3 |
+| 2.7.2  | 1.2.4 |
+| 2.8.0  | None  |
+| 2.8.1  | 1.3.0 |
+| 2.8.2  | 1.3.1 |
+| 2.8.3  | 1.3.2 |
+| 2.8.4  | None  |
+| 2.9.0  | 1.4.0 |
+| 2.9.1  | 1.4.1 |
+| 2.10.0 | 1.5.0 |
 
 ## 安装指南
 
 ### Fabric
 
 安装 [MCDR Command Fabric](https://www.curseforge.com/minecraft/mc-mods/mcdr-command-fabric) 模组。
+
+### Forge
+
+Comming soom...
+
+### Bukkit
+
+Comming soom...
 
 ### 下载
 
@@ -3564,7 +3573,7 @@ classDiagram
 - 插件 ID: `qq_api`
 - 插件名: QQAPI
 - 版本: None
-  - 元数据版本: 1.3.0
+  - 元数据版本: 1.3.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -3583,7 +3592,7 @@ classDiagram
 | Python 包 | 依赖需求 |
 | --- | --- |
 | [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
-| [uvicorn](https://pypi.org/project/uvicorn) | ==0.20.0 |
+| [uvicorn](https://pypi.org/project/uvicorn) |  |
 
 ### 介绍
 
@@ -4609,7 +4618,7 @@ Only matches the IP address received by the server and player name, and the play
 - 插件 ID: `uuid_api`
 - 插件名: UUIDAPI
 - 版本: None
-  - 元数据版本: 0.1.1
+  - 元数据版本: 0.1.2
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -4627,6 +4636,7 @@ Only matches the IP address received by the server and player name, and the play
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### 介绍
 

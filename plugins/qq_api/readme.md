@@ -9,7 +9,7 @@
 - Plugin ID: `qq_api`
 - Plugin Name: QQAPI
 - Version: None
-  - Metadata version: 1.3.0
+  - Metadata version: 1.3.1
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -28,7 +28,7 @@
 | Python package | Requirement |
 | --- | --- |
 | [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
-| [uvicorn](https://pypi.org/project/uvicorn) | ==0.20.0 |
+| [uvicorn](https://pypi.org/project/uvicorn) |  |
 
 ### Introduction
 

@@ -9,7 +9,7 @@
 - 插件 ID: `uuid_api`
 - 插件名: UUIDAPI
 - 版本: None
-  - 元数据版本: 0.1.1
+  - 元数据版本: 0.1.2
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -27,6 +27,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [requests](https://pypi.org/project/requests) |  |
 
 ### 介绍
 

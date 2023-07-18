@@ -9,7 +9,7 @@
 - 插件 ID: `qq_api`
 - 插件名: QQAPI
 - 版本: None
-  - 元数据版本: 1.3.0
+  - 元数据版本: 1.3.1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
@@ -28,7 +28,7 @@
 | Python 包 | 依赖需求 |
 | --- | --- |
 | [aiocqhttp](https://pypi.org/project/aiocqhttp) |  |
-| [uvicorn](https://pypi.org/project/uvicorn) | ==0.20.0 |
+| [uvicorn](https://pypi.org/project/uvicorn) |  |
 
 ### 介绍
 
