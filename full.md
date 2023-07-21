@@ -538,7 +538,7 @@ flowchart LR
 - Plugin ID: `carpet_bot_manager`
 - Plugin Name: Carpet Bot Manager
 - Version: None
-  - Metadata version: 0.3.0
+  - Metadata version: 0.3.1
   - Release version: None
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
