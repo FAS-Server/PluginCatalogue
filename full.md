@@ -538,7 +538,7 @@ flowchart LR
 - Plugin ID: `carpet_bot_manager`
 - Plugin Name: Carpet Bot Manager
 - Version: None
-  - Metadata version: 0.3.2
+  - Metadata version: 0.3.3-beta1
   - Release version: None
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
@@ -551,14 +551,14 @@ flowchart LR
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.2 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
 
 ### Requirements
 
 | Python package | Requirement |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.2 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
 
 ### Introduction
 

@@ -538,7 +538,7 @@ flowchart LR
 - 插件 ID: `carpet_bot_manager`
 - 插件名: Carpet Bot Manager
 - 版本: None
-  - 元数据版本: 0.3.2
+  - 元数据版本: 0.3.3-beta1
   - 发布版本: None
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
@@ -551,14 +551,14 @@ flowchart LR
 
 | 插件 ID | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.2 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
 | [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.0 |
 
 ### 包依赖
 
 | Python 包 | 依赖需求 |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.2 |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
 
 ### 介绍
 
