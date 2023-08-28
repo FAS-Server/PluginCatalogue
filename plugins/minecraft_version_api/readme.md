@@ -28,7 +28,6 @@
 
 | Python package | Requirement |
 | --- | --- |
-| [parse](https://pypi.org/project/parse) |  |
 
 ### Introduction
 

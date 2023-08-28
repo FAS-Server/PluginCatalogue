@@ -7,29 +7,21 @@
 ### Basic Information
 
 - Plugin ID: `mcdr_pycraft_bot`
-- Plugin Name: MCDR Bot
-- Version: None
-  - Metadata version: 1.2.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
 - Repository plugin page: https://github.com/MCDReforged/MCDR-bot/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: MCDR Bot powered by pyCraft
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [cryptography](https://pypi.org/project/cryptography) | \>=1.5 |
-| [requests](https://pypi.org/project/requests) |  |
-| [PyNBT](https://pypi.org/project/PyNBT) |  |
+*Data fetching failed*
 
 ### Introduction
 

@@ -29,8 +29,6 @@
 
 | Python package | Requirement |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
-| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### Introduction
 
