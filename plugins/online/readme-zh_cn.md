@@ -29,6 +29,8 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### 介绍
 

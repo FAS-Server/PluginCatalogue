@@ -28,6 +28,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### 介绍
 

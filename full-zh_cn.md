@@ -100,21 +100,27 @@
 ### 基本信息
 
 - 插件 ID: `allow_suicide`
-- 版本: *数据拉取失败*
+- 插件名: allow_suicide
+- 版本: None
+  - 元数据版本: 1.0.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [JAs0n](https://github.com/JAs0n319)
 - 仓库: https://github.com/JAs0n319/allow_suicide
 - 仓库插件页: https://github.com/JAs0n319/allow_suicide/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 允许玩家在没有op权限时自杀
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
@@ -530,21 +536,29 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `carpet_bot_manager`
-- 版本: *数据拉取失败*
+- 插件名: Carpet Bot Manager
+- 版本: None
+  - 元数据版本: 0.3.5
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
 - 仓库插件页: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | \>=1.4.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
 
 ### 介绍
 
@@ -600,21 +614,28 @@ flowchart LR
 ### 基本信息
 
 - 插件 ID: `carpetbotlist`
-- 版本: *数据拉取失败*
+- 插件名: CarpetBotList
+- 版本: None
+  - 元数据版本: 2.1.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - 仓库: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - 仓库插件页: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 帮助你管理地毯端假人
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
@@ -871,21 +892,30 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `cpu_temp`
-- 版本: *数据拉取失败*
+- 插件名: cpu_temp
+- 版本: None
+  - 元数据版本: 3.0.2
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Ricky](https://github.com/R1ckyH)
 - 仓库: https://github.com/R1ckyH/cpu_temp
 - 仓库插件页: https://github.com/R1ckyH/cpu_temp/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 服务器温度警报插件。
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [psutil](https://pypi.org/project/psutil) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+| [APScheduler](https://pypi.org/project/APScheduler) |  |
 
 ### 介绍
 
@@ -903,21 +933,26 @@ ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的�
 ### 基本信息
 
 - 插件 ID: `crash_restart`
-- 版本: *数据拉取失败*
+- 插件名: Crash Restart
+- 版本: None
+  - 元数据版本: 1.0.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/CrashRestart
 - 仓库插件页: https://github.com/MCDReforged/CrashRestart/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 在服务端崩溃后自动重启服务器的插件
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
@@ -1725,21 +1760,28 @@ Params:
 ### 基本信息
 
 - 插件 ID: `info`
-- 版本: *数据拉取失败*
+- 插件名: Info
+- 版本: None
+  - 元数据版本: 0.2.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 获取服务器信息
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [psutil](https://pypi.org/project/psutil) |  |
+| [py-cpuinfo](https://pypi.org/project/py-cpuinfo) |  |
 
 ### 介绍
 
@@ -2190,21 +2232,28 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `loginproxy`
-- 版本: *数据拉取失败*
+- 插件名: LoginProxy
+- 版本: None
+  - 元数据版本: 0.6.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
 - 仓库插件页: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个Minecraft服务器登录代理兼白名单插件
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [kpi](/plugins/kpi/readme-zh_cn.md) | ~1.4.6 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
@@ -2381,21 +2430,29 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 ### 基本信息
 
 - 插件 ID: `mcdr_pycraft_bot`
-- 版本: *数据拉取失败*
+- 插件名: MCDR Bot
+- 版本: None
+  - 元数据版本: 1.2.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MCDR-bot
 - 仓库插件页: https://github.com/MCDReforged/MCDR-bot/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 使用 pycraft 的假人插件
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [cryptography](https://pypi.org/project/cryptography) | \>=1.5 |
+| [requests](https://pypi.org/project/requests) |  |
+| [PyNBT](https://pypi.org/project/PyNBT) |  |
 
 ### 介绍
 
@@ -2635,6 +2692,7 @@ Comming soom...
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### 介绍
 
@@ -2939,21 +2997,27 @@ Windows安装方法：[cwRsync - Rsync for Windows | itefix.net](https://www.ite
 ### 基本信息
 
 - 插件 ID: `mirror_sync_reforged`
-- 版本: *数据拉取失败*
+- 插件名: Mirror Sync Reforged
+- 版本: None
+  - 元数据版本: 1.3.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Ivan1F](https://github.com/Ivan-1F)
 - 仓库: https://github.com/Ivan-1F/MirrorSyncReforged
 - 仓库插件页: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个用于同步生存服存档至镜像服的插件
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
@@ -3277,6 +3341,8 @@ classDiagram
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### 介绍
 
@@ -3426,21 +3492,27 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `player_last_play`
-- 版本: *数据拉取失败*
+- 插件名: PlayerLastPlay
+- 版本: None
+  - 元数据版本: 1.0.3
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Aimerny](https://github.com/Aimerny)
 - 仓库: https://github.com/Aimerny/playerLastPlay
 - 仓库插件页: https://github.com/Aimerny/playerLastPlay/tree/master
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 记录与查询玩家最近游玩时间,方便检查服务器玩家活跃度
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [online_player_api](/plugins/online_player_api/readme-zh_cn.md) | ^1.0.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
@@ -3458,21 +3530,33 @@ classDiagram
 ### 基本信息
 
 - 插件 ID: `player_manager`
-- 版本: *数据拉取失败*
+- 插件名: Player Manager
+- 版本: None
+  - 元数据版本: 1.2.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [hail122](https://github.com/linstar-fxt)
 - 仓库: https://github.com/PRcT-Server/MCDRPlugins
 - 仓库插件页: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 帮助你管理假人
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme-zh_cn.md) | * |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
+| [parse](https://pypi.org/project/parse) |  |
+| [hjson](https://pypi.org/project/hjson) |  |
+| [nbt](https://pypi.org/project/nbt) |  |
 
 ### 介绍
 
@@ -3818,6 +3902,7 @@ example:
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
 
 ### 介绍
 
@@ -4071,21 +4156,27 @@ example:
 ### 基本信息
 
 - 插件 ID: `simple_op`
-- 版本: *数据拉取失败*
+- 插件名: Simple OP
+- 版本: None
+  - 元数据版本: 1.2.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/SimpleOP
 - 仓库插件页: https://github.com/MCDReforged/SimpleOP/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: !!op 以获取op, !!restart 以重启服务器
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 
@@ -4293,21 +4384,28 @@ example:
 ### 基本信息
 
 - 插件 ID: `stats_helper`
-- 版本: *数据拉取失败*
+- 插件名: Stats Helper
+- 版本: None
+  - 元数据版本: 7.5.1
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/StatsHelper
 - 仓库插件页: https://github.com/TISUnion/StatsHelper/tree/master
 - 标签: [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个 Minecraft 统计信息助手
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta.1 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b7 |
 
 ### 介绍
 
@@ -4386,21 +4484,27 @@ Only matches the IP address received by the server and player name, and the play
 ### 基本信息
 
 - 插件 ID: `timed_quick_backup_multi`
-- 版本: *数据拉取失败*
+- 插件名: Timed QBM
+- 版本: None
+  - 元数据版本: 1.3.0
+  - 发布版本: None
 - 总下载量: 0
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/TimedQBM
 - 仓库插件页: https://github.com/TISUnion/TimedQBM/tree/master
 - 标签: [`管理`](/labels/management/readme-zh_cn.md)
-- 描述: *数据拉取失败*
+- 描述: 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份
 
 ### 插件依赖
 
-*数据拉取失败*
+| 插件 ID | 依赖需求 |
+| --- | --- |
+| [quick_backup_multi](/plugins/quick_backup_multi/readme-zh_cn.md) | \>=1.1.0 |
 
 ### 包依赖
 
-*数据拉取失败*
+| Python 包 | 依赖需求 |
+| --- | --- |
 
 ### 介绍
 

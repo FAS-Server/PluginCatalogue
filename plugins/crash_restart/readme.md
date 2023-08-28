@@ -7,21 +7,26 @@
 ### Basic Information
 
 - Plugin ID: `crash_restart`
-- Version: *Data fetching failed*
+- Plugin Name: Crash Restart
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
 - Repository plugin page: https://github.com/MCDReforged/CrashRestart/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Automatically restart the server after the server crashed
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

@@ -7,21 +7,27 @@
 ### Basic Information
 
 - Plugin ID: `mirror_sync_reforged`
-- Version: *Data fetching failed*
+- Plugin Name: Mirror Sync Reforged
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
 - Repository plugin page: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to sync survival server world to the mirror server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 

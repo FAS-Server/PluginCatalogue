@@ -11,19 +11,19 @@ Plugin Amount: 42
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
 | [AdvancedCalculator](/plugins/advanced_calculator/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides multiple convenient in-game calculations | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/allow_suicide/readme.md) | [JAs0n](https://github.com/JAs0n319) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [allow_suicide](/plugins/allow_suicide/readme.md) | [JAs0n](https://github.com/JAs0n319) | allow player suicide with no op | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Beep](/plugins/beep/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi) | Use @ \<someone\> to ping someone, @ all for everyone. Use @@ for a pogger ping | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Bingo](/plugins/bingo/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful tool for Bingo game | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Bot](/plugins/bot/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | The best carpet bot manager! | N/A | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | N/A | [`Management`](/labels/management/readme.md), [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [Carpet Bot Manager](/plugins/carpet_bot_manager/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | A carpet bot manage plugin, able to spawn bot and make it execute actions | N/A | [`Tool`](/labels/tool/readme.md) |
+| [CarpetBotList](/plugins/carpetbotlist/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | Help you manage your carpet fake player | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Cato Plugin](/plugins/cato/readme.md) | [Harry-zklcdc](https://github.com/Harry-zklcdc) | Plugin Cato | N/A | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridge v2 for MCDR](/plugins/chatbridge/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Broadcast chats between Minecraft servers and more | N/A | [`Tool`](/labels/tool/readme.md) |
 | [ChatBridgeReforged_MC](/plugins/chatbridgereforged_mc/readme.md) | [Ricky](https://github.com/R1ckyH) | Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients). | N/A | [`Tool`](/labels/tool/readme.md) |
 | [ColoredChat](/plugins/colored_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Support formatting codes for vanilla | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MCDR Command Exporter](/plugins/command_exporter/readme.md) | [DancingSnow](https://github.com/DancingSnow0517) | A plugin is used to export the MCDR command tree | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [Crash Restart](/plugins/crash_restart/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | Automatically restart the server after the server crashed | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
@@ -37,18 +37,18 @@ Plugin Amount: 42
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MCDRpost](/plugins/mcdrpost/readme.md) | [Flyky](https://github.com/Flyky) | A MCDR plugin for post/teleport items | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [PCRC](/plugins/pcrc/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | PyCraft based Replay Client | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
+| [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | N/A | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [Simple OP](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op to get op, !!restart to restart the server | N/A | [`Tool`](/labels/tool/readme.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme.md) | [skuzow](https://github.com/skuzow) | In-game translator | N/A | [`Tool`](/labels/tool/readme.md) |
-| [*Data fetching failed*](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
+| [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | N/A | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | N/A | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Whisper](/plugins/whisper/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Send some private message to others in a faster way.(Vanilla feature supplements) | N/A | [`Tool`](/labels/tool/readme.md) |

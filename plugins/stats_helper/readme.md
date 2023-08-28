@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `stats_helper`
-- Version: *Data fetching failed*
+- Plugin Name: Stats Helper
+- Version: None
+  - Metadata version: 7.5.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Repository plugin page: https://github.com/TISUnion/StatsHelper/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: A Minecraft statistic helper
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b7 |
 
 ### Introduction
 

@@ -100,21 +100,27 @@ Offline server whitelist management
 ### Basic Information
 
 - Plugin ID: `allow_suicide`
-- Version: *Data fetching failed*
+- Plugin Name: allow_suicide
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/allow_suicide
 - Repository plugin page: https://github.com/JAs0n319/allow_suicide/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: allow player suicide with no op
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -530,21 +536,29 @@ flowchart LR
 ### Basic Information
 
 - Plugin ID: `carpet_bot_manager`
-- Version: *Data fetching failed*
+- Plugin Name: Carpet Bot Manager
+- Version: None
+  - Metadata version: 0.3.5
+  - Release version: None
 - Total downloads: 0
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: A carpet bot manage plugin, able to spawn bot and make it execute actions
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | \>=1.4.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
 
 ### Introduction
 
@@ -600,21 +614,28 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 ### Basic Information
 
 - Plugin ID: `carpetbotlist`
-- Version: *Data fetching failed*
+- Plugin Name: CarpetBotList
+- Version: None
+  - Metadata version: 2.1.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [ZeroKelvin](https://github.com/BelowZeroKelvin)
 - Repository: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList
 - Repository plugin page: https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/tree/MCDR-2.x
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Help you manage your carpet fake player
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.0.0-beta.1 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -873,21 +894,30 @@ Get client completion with mod [MCDR-Completion](https://github.com/DancingSnow0
 ### Basic Information
 
 - Plugin ID: `cpu_temp`
-- Version: *Data fetching failed*
+- Plugin Name: cpu_temp
+- Version: None
+  - Metadata version: 3.0.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/cpu_temp
 - Repository plugin page: https://github.com/R1ckyH/cpu_temp/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to check cpu temp regularly.
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [psutil](https://pypi.org/project/psutil) |  |
+| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+| [APScheduler](https://pypi.org/project/APScheduler) |  |
 
 ### Introduction
 
@@ -905,21 +935,26 @@ A plugin to check cpu temp regularly.
 ### Basic Information
 
 - Plugin ID: `crash_restart`
-- Version: *Data fetching failed*
+- Plugin Name: Crash Restart
+- Version: None
+  - Metadata version: 1.0.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/CrashRestart
 - Repository plugin page: https://github.com/MCDReforged/CrashRestart/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: Automatically restart the server after the server crashed
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -1727,21 +1762,28 @@ Make file transfers faster!
 ### Basic Information
 
 - Plugin ID: `info`
-- Version: *Data fetching failed*
+- Plugin Name: Info
+- Version: None
+  - Metadata version: 0.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Get server info
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [psutil](https://pypi.org/project/psutil) |  |
+| [py-cpuinfo](https://pypi.org/project/py-cpuinfo) |  |
 
 ### Introduction
 
@@ -2192,21 +2234,28 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `loginproxy`
-- Version: *Data fetching failed*
+- Plugin Name: LoginProxy
+- Version: None
+  - Metadata version: 0.6.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
 - Repository plugin page: https://github.com/kmcsr/login_proxy_mcdr/tree/master
 - Labels: [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md)
-- Description: *Data fetching failed*
+- Description: A Minecraft login proxy Plugin
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | ^2.3.0 |
+| [kpi](/plugins/kpi/readme.md) | ~1.4.6 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -2383,21 +2432,29 @@ Shows tasks of project in progress
 ### Basic Information
 
 - Plugin ID: `mcdr_pycraft_bot`
-- Version: *Data fetching failed*
+- Plugin Name: MCDR Bot
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MCDR-bot
 - Repository plugin page: https://github.com/MCDReforged/MCDR-bot/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: MCDR Bot powered by pyCraft
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [cryptography](https://pypi.org/project/cryptography) | \>=1.5 |
+| [requests](https://pypi.org/project/requests) |  |
+| [PyNBT](https://pypi.org/project/PyNBT) |  |
 
 ### Introduction
 
@@ -2636,6 +2693,7 @@ A MCDReforged api plugin to get player data information and more
 
 | Python package | Requirement |
 | --- | --- |
+| [parse](https://pypi.org/project/parse) |  |
 
 ### Introduction
 
@@ -2874,21 +2932,27 @@ Now, I'll introduce the content of the config file:
 ### Basic Information
 
 - Plugin ID: `mirror_sync_reforged`
-- Version: *Data fetching failed*
+- Plugin Name: Mirror Sync Reforged
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Ivan1F](https://github.com/Ivan-1F)
 - Repository: https://github.com/Ivan-1F/MirrorSyncReforged
 - Repository plugin page: https://github.com/Ivan-1F/MirrorSyncReforged/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A plugin to sync survival server world to the mirror server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3212,6 +3276,8 @@ A whitelist plugin with multiple server
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.1.3 |
+| [parse](https://pypi.org/project/parse) | \>=1.19.0 |
 
 ### Introduction
 
@@ -3361,21 +3427,27 @@ Display the online players for Group server, with click event to quickly join ev
 ### Basic Information
 
 - Plugin ID: `player_last_play`
-- Version: *Data fetching failed*
+- Plugin Name: PlayerLastPlay
+- Version: None
+  - Metadata version: 1.0.3
+  - Release version: None
 - Total downloads: 0
 - Authors: [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/Aimerny/playerLastPlay
 - Repository plugin page: https://github.com/Aimerny/playerLastPlay/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: Record player lastime left the server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [online_player_api](/plugins/online_player_api/readme.md) | ^1.0.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -3392,21 +3464,33 @@ Record the last playing time of server members to facilitate the statistics of s
 ### Basic Information
 
 - Plugin ID: `player_manager`
-- Version: *Data fetching failed*
+- Plugin Name: Player Manager
+- Version: None
+  - Metadata version: 1.2.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [hail122](https://github.com/linstar-fxt)
 - Repository: https://github.com/PRcT-Server/MCDRPlugins
 - Repository plugin page: https://github.com/PRcT-Server/MCDRPlugins/tree/master/PlayerManager
 - Labels: [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A MCDReforged plugin to help with managing fake players
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.3 |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b3 |
+| [sqlalchemy](https://pypi.org/project/sqlalchemy) |  |
+| [parse](https://pypi.org/project/parse) |  |
+| [hjson](https://pypi.org/project/hjson) |  |
+| [nbt](https://pypi.org/project/nbt) |  |
 
 ### Introduction
 
@@ -3752,6 +3836,7 @@ example:
 
 | Python package | Requirement |
 | --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.1 |
 
 ### Introduction
 
@@ -4007,21 +4092,27 @@ You don't need to manually specify the seed in the configuration file, the plugi
 ### Basic Information
 
 - Plugin ID: `simple_op`
-- Version: *Data fetching failed*
+- Plugin Name: Simple OP
+- Version: None
+  - Metadata version: 1.2.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/SimpleOP
 - Repository plugin page: https://github.com/MCDReforged/SimpleOP/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: *Data fetching failed*
+- Description: !!op to get op, !!restart to restart the server
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
@@ -4229,21 +4320,28 @@ testing basic server problem.
 ### Basic Information
 
 - Plugin ID: `stats_helper`
-- Version: *Data fetching failed*
+- Plugin Name: Stats Helper
+- Version: None
+  - Metadata version: 7.5.1
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Repository plugin page: https://github.com/TISUnion/StatsHelper/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: A Minecraft statistic helper
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0-beta.1 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b7 |
 
 ### Introduction
 
@@ -4322,21 +4420,27 @@ Only matches the IP address received by the server and player name, and the play
 ### Basic Information
 
 - Plugin ID: `timed_quick_backup_multi`
-- Version: *Data fetching failed*
+- Plugin Name: Timed QBM
+- Version: None
+  - Metadata version: 1.3.0
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: *Data fetching failed*
+- Description: A Quick-Backup-Multi extension for automatically trigger QBM at given interval
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [quick_backup_multi](/plugins/quick_backup_multi/readme.md) | \>=1.1.0 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
