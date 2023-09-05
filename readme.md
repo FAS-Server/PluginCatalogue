@@ -58,16 +58,16 @@ Plugin Amount: 95
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Let Me Click and Send](/plugins/let_me_click_and_send/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Allowed click to send anything in 1.19 | N/A | [`Information`](/labels/information/readme.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A lite-weight in-game file manager | N/A | [`Management`](/labels/management/readme.md) |
-| [Location Marker](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | A server side waypoint manager | N/A | [`Information`](/labels/information/readme.md) |
+| [*Data fetching failed*](/plugins/location_marker/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya) | *Data fetching failed* | N/A | [`Information`](/labels/information/readme.md) |
 | [LoginProxy](/plugins/loginproxy/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft login proxy Plugin | N/A | [`Management`](/labels/management/readme.md), [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
-| [Lowercase MCDR Command](/plugins/lowercase_mcdr_command/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Lowercase `!!MCDR` command | N/A | [`Management`](/labels/management/readme.md) |
+| [*Data fetching failed*](/plugins/lowercase_mcdr_command/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | N/A | [`Management`](/labels/management/readme.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | N/A | [`API`](/labels/api/readme.md) |
-| [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | Manage your mcdreforged plugins with ease | N/A | [`Management`](/labels/management/readme.md) |
 | [MCDRpost](/plugins/mcdrpost/readme.md) | [Flyky](https://github.com/Flyky) | A MCDR plugin for post/teleport items | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Minecraft Command Register](/plugins/minecraft_command_register/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing) | Register MCDReforged commands in Minecraft | N/A | [`API`](/labels/api/readme.md) |
+| [*Data fetching failed*](/plugins/minecraft_command_register/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing) | *Data fetching failed* | N/A | [`API`](/labels/api/readme.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDReforged api plugin to get player data information and more | N/A | [`API`](/labels/api/readme.md) |
 | [Minecraft Version API](/plugins/minecraft_version_api/readme.md) | [Ivan1F](https://github.com/Ivan-1F) | A api plugin to get the Minecraft server version | N/A | [`API`](/labels/api/readme.md) |
 | [Mirror Control](/plugins/mirror_control/readme.md) | [Chara_SS](https://github.com/charassss/) | A plugin to control mirror server | N/A | [`Management`](/labels/management/readme.md) |
@@ -84,14 +84,14 @@ Plugin Amount: 95
 | [OnlinePlayerAPI](/plugins/online_player_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Online Player API | N/A | [`API`](/labels/api/readme.md) |
 | [PCRC](/plugins/pcrc/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | PyCraft based Replay Client | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Permanent Backup](/plugins/permanent_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A plugin for creating permanent zip world backups | N/A | [`Management`](/labels/management/readme.md) |
-| [PlayerLastPlay](/plugins/player_last_play/readme.md) | [Aimerny](https://github.com/Aimerny) | Record player lastime left the server | N/A | [`Information`](/labels/information/readme.md) |
+| [*Data fetching failed*](/plugins/player_last_play/readme.md) | [Aimerny](https://github.com/Aimerny) | *Data fetching failed* | N/A | [`Information`](/labels/information/readme.md) |
 | [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | N/A | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
 | [QQAPI](/plugins/qq_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Connect Minecraft and QQ | N/A | [`API`](/labels/api/readme.md) |
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Useful Functions with QQ | N/A | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | N/A | [`Management`](/labels/management/readme.md) |
-| [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | N/A | [`Management`](/labels/management/readme.md) |
-| [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | *Data fetching failed* | N/A | [`Management`](/labels/management/readme.md) |
+| [*Data fetching failed*](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Seed](/plugins/seed/readme.md) | [OptiJava](https://github.com/OptiJava) | Get world seed without op permission. | N/A | [`Information`](/labels/information/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | N/A | [`Tool`](/labels/tool/readme.md) |
@@ -103,7 +103,7 @@ Plugin Amount: 95
 | [*Data fetching failed*](/plugins/start_stop_helper_r/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath), [Andy Zhang](https://github.com/AnzhiZhang) | *Data fetching failed* | N/A | [`Management`](/labels/management/readme.md) |
 | [Stats Helper](/plugins/stats_helper/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Minecraft statistic helper | N/A | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [The Offline ops](/plugins/the_offline_ops/readme.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | Check the player's IP to prevent impersonation of logging into the offline server | N/A | [`Management`](/labels/management/readme.md) |
-| [Timed QBM](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Quick-Backup-Multi extension for automatically trigger QBM at given interval | N/A | [`Management`](/labels/management/readme.md) |
+| [*Data fetching failed*](/plugins/timed_quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | *Data fetching failed* | N/A | [`Management`](/labels/management/readme.md) |
 | [ToDoList](/plugins/todolist/readme.md) | [Flash-Z](https://github.com/Flash-Z) | ToDoList | N/A | [`Tool`](/labels/tool/readme.md), [`Information`](/labels/information/readme.md) |
 | [TpManager](/plugins/tpm/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft teleport manager | N/A | [`Tool`](/labels/tool/readme.md) |
 | [UUIDAPI](/plugins/uuid_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | UUID API | N/A | [`API`](/labels/api/readme.md) |

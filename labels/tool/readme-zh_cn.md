@@ -35,15 +35,15 @@
 | [Jrrps Plg](/plugins/jrrps/readme-zh_cn.md) | [SkyDynamic](https://github.com/SkyDynamic) | 测试今天的运势 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Lazy Teleport](/plugins/lazytp/readme-zh_cn.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 维度间的快速折跃通道 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme-zh_cn.md) | [XavierWah](https://github.com/XavierWah) | 这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Seen](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/mcd_seen/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Task](/plugins/mcd_task/readme-zh_cn.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | 用于展示进行中的工程任务的插件 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 使用 pycraft 的假人插件 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MCDRpost](/plugins/mcdrpost/readme-zh_cn.md) | [Flyky](https://github.com/Flyky) | 一个用于邮寄/传送物品的MCDR插件 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme-zh_cn.md) | [YehowahLiu](https://github.com/YehowahLiu) | 一个使用rcon来做到对群组服进行简单操作的api | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [PCRC](/plugins/pcrc/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 基于PyCraft的Replay客户端 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Player Manager](/plugins/player_manager/readme-zh_cn.md) | [hail122](https://github.com/linstar-fxt) | 帮助你管理假人 | N/A | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
-| [quick_run_cmd](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 一个快速运行自定义脚本的插件。 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Renewability](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/quick_run_cmd/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
+| [*数据拉取失败*](/plugins/renewability/readme-zh_cn.md) | [Fidel Yin](https://github.com/Fidelxyz) | *数据拉取失败* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme-zh_cn.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | 讓普通玩家執行已被加入白名單的原版指令 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个简单的游戏内计算器 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Simple OP](/plugins/simple_op/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op 以获取op, !!restart 以重启服务器 | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |

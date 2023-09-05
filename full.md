@@ -2195,28 +2195,21 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `location_marker`
-- Plugin Name: Location Marker
-- Version: None
-  - Metadata version: 1.3.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: A server side waypoint manager
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.12 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
@@ -2273,26 +2266,21 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `lowercase_mcdr_command`
-- Plugin Name: Lowercase MCDR Command
-- Version: None
-  - Metadata version: 1.2.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: Lowercase `!!MCDR` command
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
@@ -2352,29 +2340,21 @@ Browse / Import / Export files in the server in Minecraft!
 ### Basic Information
 
 - Plugin ID: `mcd_seen`
-- Plugin Name: Seen
-- Version: None
-  - Metadata version: 1.2.1
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Seen
 - Repository plugin page: https://github.com/TISUnion/Seen/tree/MCDR
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: Show laziness rank easily
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.1.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.0.0b12 |
-| [parse](https://pypi.org/project/parse) |  |
+*Data fetching failed*
 
 ### Introduction
 
@@ -2552,27 +2532,21 @@ A MCDR plugin for post/teleport items
 ### Basic Information
 
 - Plugin ID: `minecraft_command_register`
-- Plugin Name: Minecraft Command Register
-- Version: None
-  - Metadata version: 1.5.1
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
 - Labels: [`API`](/labels/api/readme.md)
-- Description: Register MCDReforged commands in Minecraft
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.10.1 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
@@ -2817,72 +2791,7 @@ config.json
 
 ### Introduction
 
-# MirrorServerReforged
-
-![MirrorServerReforged](https://socialify.git.ci/EMUnion/MirrorServerReforged/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
-
-A reforged version of [MCDR-Mirror-Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server), which is a plugin for MCDR-Reforged 2.0+.
-
-I'll simply introduce it.
-
-## Getting Started
-
-This plugin will initalize when the first run, it will do the following opeartions (the path can be changed in the config)
-- Create `MirrorServerReforged.json` in your `config` folder and fill the default config in it
-- Create`Mirror` folder to store your files of mirror server
-- Create `./server/world/`/`./world` in `Mirror` folder (This depends on whether you use MCDR or not, use as default)
-
-But these operations are not enough, what you need to do are as following (the path can be changed in the config)
-- Put your server core and dependencies into `./Mirror/server` folder
-- Edit start command and rcon information in file `config.yml` in the folder`./Mirror/`
-- Edit the content in `./Mirror/server/server.properties`. What you need to pay attention to is the ports of the mirror server and rcon related information in order to avoid encountering to the main server
-
-It's not essential for a mirror server to be a MCDR server, you can use the vanilla or something else.
-
-## Config
-
-If you want to change the config of this plugin, you can change the content of `MirrorServerReforged.json` in `config` folder
-
-```json
-{
-  "world":[
-    "world"
-  ],
-  "command":"python3 -m mcdreforged",
-  "rcon":{
-    "enable":false,
-    "host":"localhost",
-    "port":25565,
-    "password":"password"
-  },
-  "source": "./server",
-  "target': './Mirror/server"
-}
-```
-
-Now, I'll introduce the content of the config file:
-- `world` is a list include all your world's folders. For `Vanilla` type server, this can leave it as default. But for `Bukkit`/`Waterfall`/`Catserver` or other server cores like them that have more than one world folder, you need to input them in the list follow after `world`. E.G.: The `Bukkit` server has folders `world`, `world_nether`, `world_the_end`, then it should be filled with `['world','world_nether','world_the_end']`.
-- `command` Start command. Here we use this command as you use MCDR in your mirror server as default. For `Vanilla` or `Bukkit-Like` server, you need to change it to the suitable one. E.G.: `java -Xmx16G -Xms1G -jar server.jar nogui`
-- `rcon` will contain all the rcon-related config and this feature will only be used to turn off the mirror server remotely.
-    - `enable` is the switch of rcon feature, it should be `true` or `false`. Rcon will not be able to use if this is set to `false`, especially the command `!!msr stop`
-    - `host` is the address of your mirror server, change it as your need.
-    - `port` is the port of your mirror server, change it as your need.
-    - `password` is the password of the rcon feature on your mirror server, change it as your need.
-- `source` is the save folder of you main server save.
-- `target` is the save folder of your mirror server save.
-
-## Command List
-
-```
-!!msr help - Display help message
-!!msr sync - Sync the world to the mirror server
-!!msr reload - Reload config
-!!msr start - Start mirror server
-!!msr stop - Stop mirror server (Rcon feature enable is needed)
-!!msr init - Initalize mirror server (Use it only when you use MCDR in your mirror server)
-!!msr status - Checkout the status of your mirror server
-```
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3067,9 +2976,6 @@ classDiagram
 
 | Python package | Requirement |
 | --- | --- |
-| [pyyaml](https://pypi.org/project/pyyaml) |  |
-| [jproperties](https://pypi.org/project/jproperties) |  |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
@@ -3157,12 +3063,10 @@ A plugin that makes it able to mount multi minecraft server to one MCDR instance
 
 | Python package | Requirement |
 | --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
 
 ### Introduction
 
-A whitelist plugin with multiple server
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3427,27 +3331,21 @@ Display the online players for Group server, with click event to quickly join ev
 ### Basic Information
 
 - Plugin ID: `player_last_play`
-- Plugin Name: PlayerLastPlay
-- Version: None
-  - Metadata version: 1.0.3
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Aimerny](https://github.com/Aimerny)
 - Repository: https://github.com/Aimerny/playerLastPlay
 - Repository plugin page: https://github.com/Aimerny/playerLastPlay/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: Record player lastime left the server
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [online_player_api](/plugins/online_player_api/readme.md) | ^1.0.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
@@ -3692,117 +3590,7 @@ example:
 
 ### Introduction
 
-<!-- markdownlint-disable-file MD033 -->
-# QQChat
-
-> 用于连接 `Minecraft` 和 `QQ` 的插件
-
-## 功能说明
-
-### 名词定义
-
-| 名词 | 含义 | 备注 |
-| - | - | - |
-| **群成员** | QQ群聊中的玩家 | |
-| **玩家** | MC服务器中的玩家 | |
-| **管理** | 管理员（请勿与 MC 或 MCDR 权限混淆） | `admins` |
-| **主群** | 服务器的主要交流群 | `main_group` 一般指服务器最大的群，包括所有人，最多一个，如配置多个群将取第一个 |
-| **管理群** | 服务器管理群 | `manage_groups` 此群成员无论是否配置为管理，在此群中都具有管理的权限 |
-| **同步群** | 服务器聊天同步群 | `message_sync_groups` 同步所有玩家的发言，在此群中发送非命令的消息也会同步到服务器 |
-
-### 场景说明
-
-1. 管理可以在任何场景下（包括群聊和私聊）都具有所有指令的权限。
-
-2. 管理群中，所有人均获得管理权限，即使有的人没有在 `admins` 中。
-
-3. MCDR指令的执行没有返回信息，不太适用于需要交互的场景（除非你知道MCDR会输出什么），请自行判断与使用，以下给出一些使用场景：
-
-   - 场景1：无管理在线的时候紧急回档
-   - 场景2：离线服务器为新玩家添加白名单（采用MCDR离线白名单插件时）
-
-   > 注意：由于MCDR指令默认是通过控制台执行，**已配置的 admin 及服务器管理群中的所有成员将在 MCDR 层面拥有和 owner 等同的权限**
-
-## 配置说明
-
-| 配置项 | 含义 | 默认值 | 注意事项 |
-| - | - | - | - |
-| `main_group` | 主群 | `[123456]` | 最多填一个，多填取首个 |
-| `manage_groups` | 管理群 | `[1234563, 1234564]` | 非必填 |
-| `message_sync_groups` | 同步群 | `[1234567, 1234568]` | 非必填 |
-| `server_name` | 服务器名 | `'survival'` | 发送到qq时会加上server_name的前缀 |
-| `admins` | 管理列表 | `[1234565, 1234566]` | 理论上非必填（ |
-| `sync_group_only_admin:` | 同步群是否只包含管理 | `true` | 如果关闭，成员权限同主群<br />如果打开。成员权限同管理群 |
-| `whitelist_add_with_bound` | 群成员绑定游戏 id 时自动添加白名单 | `false` | 离线服使用大概率有问题 |
-| `whitelist_remove_with_leave` | 玩家退群自动移除白名单 | `true` | 须防止冒名绑定游戏 id |
-| `command` | 开启 `/command` 指令 | `true` | |
-| `list` | 开启 `/list` 指令 | `true` | |
-| `mc` | 开启 `/mc` 指令 | `true` | |
-| `qq` | 开启 `/qq` 指令 | `true` | |
-| `mcdr` | 开启 `/mcdr` 指令 | `false` | 仅建议紧急运维时使用，**没有返回信息** |
-| `command_prefix` | 触发机器人指令的前缀 | `['/']` | 配置单字符如 `'/'` 或 `'#'` 时，指令格式为 `/list` 等<br />配置多字符如 `'mc'` 或 `'bot'` 时，指令格式为 `mc list`，需在前缀与指令之间添加空格 |
-| `player_list_regex` | 使用 `/list` 指令时将玩家分组的正则表达式 | 略 | 请避免冲突，`其它` 为保留名 |
-
-## 命令帮助
-
-**注：以前缀为 `'/'` 为例，实际指令请参考配置文件**
-
-> 普通玩家命令帮助如下
-
-`/server` 查看当前连接到群组服中哪个子服
-
-`/server <server_name>` 连接到群组服中的对应子服
-
-`/list` 获取在线玩家列表
-
-`/bound <ID>` 绑定你的游戏ID
-
-`/mc <msg>` 向游戏内发送消息
-
-`!!qq <msg>` 游戏内向主群发送消息
-
-> 管理员命令帮助如下
-
-`/bound` 查看绑定相关帮助
-
-`/whitelist` 查看白名单相关帮助
-
-`/command <command>` 执行任意指令
-
-`/mc <msg>` 向游戏内发送消息
-
-`/mcdr <mcdr command>` 执行mcdr指令（可不添加 `!!` 前缀，无回显，谨慎使用）
-
-> bound 指令帮助
-
-`/bound list` 查看绑定列表
-
-`/bound check <qq number>` 查询绑定 ID
-
-`/bound unbound <qq number>` 解除绑定
-
-`/bound <qq number> <ID>` 绑定新 ID
-
-> whitelist 指令帮助
-
-`/whitelist add <target>` 添加白名单成员
-
-`/whitelist list` 列出白名单成员
-
-`/whitelist off` 关闭白名单
-
-`/whitelist on` 开启白名单
-
-`/whitelist reload` 重载白名单
-
-`/whitelist remove <target>` 删除白名单成员
-
-注: `<target>` 可以是玩家名/目标选择器/UUID
-
-## 迁移说明
-
-您自己想办法吧
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3861,33 +3649,25 @@ Features:
 ### Basic Information
 
 - Plugin ID: `quick_run_cmd`
-- Plugin Name: quick_run_cmd
-- Version: None
-  - Metadata version: 2.0.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/quick_run_cmd
 - Repository plugin page: https://github.com/R1ckyH/quick_run_cmd/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: A plugin for run command quickly.
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+*Data fetching failed*
 
 ### Introduction
 
-A plugin for run command quickly
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.
@@ -3900,27 +3680,21 @@ A plugin for run command quickly
 ### Basic Information
 
 - Plugin ID: `region_file_updater`
-- Plugin Name: Region file Updater
-- Version: None
-  - Metadata version: 1.5.2
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/RegionFileUpdater
 - Repository plugin page: https://github.com/TISUnion/RegionFileUpdater/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: A MCDR plugin to help you update region files in game
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
@@ -3938,28 +3712,21 @@ A plugin for run command quickly
 ### Basic Information
 
 - Plugin ID: `renewability`
-- Plugin Name: Renewability
-- Version: None
-  - Metadata version: 1.1.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fidel Yin](https://github.com/Fidelxyz)
 - Repository: https://github.com/Fidelxyz/MCDR-Renewability
 - Repository plugin page: https://github.com/Fidelxyz/MCDR-Renewability/tree/main
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: A plugin that allows players to clone non-renewable items
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-alpha.1 |
-| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 
@@ -4074,7 +3841,6 @@ You don't need to manually specify the seed in the configuration file, the plugi
 
 | Python package | Requirement |
 | --- | --- |
-| [simpleeval](https://pypi.org/project/simpleeval) |  |
 
 ### Introduction
 
@@ -4420,27 +4186,21 @@ Only matches the IP address received by the server and player name, and the play
 ### Basic Information
 
 - Plugin ID: `timed_quick_backup_multi`
-- Plugin Name: Timed QBM
-- Version: None
-  - Metadata version: 1.3.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/TimedQBM
 - Repository plugin page: https://github.com/TISUnion/TimedQBM/tree/master
 - Labels: [`Management`](/labels/management/readme.md)
-- Description: A Quick-Backup-Multi extension for automatically trigger QBM at given interval
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [quick_backup_multi](/plugins/quick_backup_multi/readme.md) | \>=1.1.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
+*Data fetching failed*
 
 ### Introduction
 

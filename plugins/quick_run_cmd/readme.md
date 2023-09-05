@@ -7,33 +7,25 @@
 ### Basic Information
 
 - Plugin ID: `quick_run_cmd`
-- Plugin Name: quick_run_cmd
-- Version: None
-  - Metadata version: 2.0.0
-  - Release version: None
+- Version: *Data fetching failed*
 - Total downloads: 0
 - Authors: [Ricky](https://github.com/R1ckyH)
 - Repository: https://github.com/R1ckyH/quick_run_cmd
 - Repository plugin page: https://github.com/R1ckyH/quick_run_cmd/tree/master
 - Labels: [`Tool`](/labels/tool/readme.md)
-- Description: A plugin for run command quickly.
+- Description: *Data fetching failed*
 
 ### Dependencies
 
-| Plugin ID | Requirement |
-| --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
+*Data fetching failed*
 
 ### Requirements
 
-| Python package | Requirement |
-| --- | --- |
-| [mcdreforged](https://pypi.org/project/mcdreforged) |  |
+*Data fetching failed*
 
 ### Introduction
 
-A plugin for run command quickly
-
+*Data fetching failed*
 ### Download
 
 > :warning: Warning: Read the README file in plugin repository before using it.

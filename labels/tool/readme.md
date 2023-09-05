@@ -35,15 +35,15 @@ Plugin Amount: 42
 | [Jrrps Plg](/plugins/jrrps/readme.md) | [SkyDynamic](https://github.com/SkyDynamic) | Test today's luck | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Lazy Teleport](/plugins/lazytp/readme.md) | [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A express gateway between each dimensions | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Leader Reforged](/plugins/leader_reforged/readme.md) | [XavierWah](https://github.com/XavierWah) | This is a simplified and reforged version for Leader, allowing to mark a leader. | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Seen](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | Show laziness rank easily | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/mcd_seen/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Task](/plugins/mcd_task/readme.md) | [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki) | A plugin to show tasks of project in progress | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MCDR Bot](/plugins/mcdr_pycraft_bot/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | MCDR Bot powered by pyCraft | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MCDRpost](/plugins/mcdrpost/readme.md) | [Flyky](https://github.com/Flyky) | A MCDR plugin for post/teleport items | N/A | [`Tool`](/labels/tool/readme.md) |
 | [MultiRconAPI](/plugins/multi_rcon_api/readme.md) | [YehowahLiu](https://github.com/YehowahLiu) | An api to make it easier to control group server by rcon. | N/A | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [PCRC](/plugins/pcrc/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | PyCraft based Replay Client | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Player Manager](/plugins/player_manager/readme.md) | [hail122](https://github.com/linstar-fxt) | A MCDReforged plugin to help with managing fake players | N/A | [`Tool`](/labels/tool/readme.md), [`Management`](/labels/management/readme.md) |
-| [quick_run_cmd](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | A plugin for run command quickly. | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Renewability](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | A plugin that allows players to clone non-renewable items | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/quick_run_cmd/readme.md) | [Ricky](https://github.com/R1ckyH) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
+| [*Data fetching failed*](/plugins/renewability/readme.md) | [Fidel Yin](https://github.com/Fidelxyz) | *Data fetching failed* | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Run Some Commands](/plugins/run_some_commands/readme.md) | [FlyingShuriken](https://github.com/FlyingShuriken) | Let player run whitelisted vanilla command | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Simple in-game calculator](/plugins/simple_calculator/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A Simple in-game calculator | N/A | [`Tool`](/labels/tool/readme.md) |
 | [Simple OP](/plugins/simple_op/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | !!op to get op, !!restart to restart the server | N/A | [`Tool`](/labels/tool/readme.md) |
