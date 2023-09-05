@@ -28,6 +28,7 @@
 
 | Python 包 | 依赖需求 |
 | --- | --- |
+| [simpleeval](https://pypi.org/project/simpleeval) |  |
 
 ### 介绍
 

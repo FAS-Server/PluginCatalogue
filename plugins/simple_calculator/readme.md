@@ -28,6 +28,7 @@
 
 | Python package | Requirement |
 | --- | --- |
+| [simpleeval](https://pypi.org/project/simpleeval) |  |
 
 ### Introduction
 

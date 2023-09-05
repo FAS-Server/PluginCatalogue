@@ -7,21 +7,28 @@
 ### Basic Information
 
 - Plugin ID: `location_marker`
-- Version: *Data fetching failed*
+- Plugin Name: Location Marker
+- Version: None
+  - Metadata version: 1.3.2
+  - Release version: None
 - Total downloads: 0
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
 - Labels: [`Information`](/labels/information/readme.md)
-- Description: *Data fetching failed*
+- Description: A server side waypoint manager
 
 ### Dependencies
 
-*Data fetching failed*
+| Plugin ID | Requirement |
+| --- | --- |
+| [minecraft_data_api](/plugins/minecraft_data_api/readme.md) | * |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0-beta.12 |
 
 ### Requirements
 
-*Data fetching failed*
+| Python package | Requirement |
+| --- | --- |
 
 ### Introduction
 
