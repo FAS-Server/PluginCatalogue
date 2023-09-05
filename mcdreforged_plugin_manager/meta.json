@@ -11,10 +11,7 @@
   "dependencies": {
     "mcdreforged": ">=2.0.0"
   },
-  "requirements": [
-    "mcdreforged>=2.0.0",
-    "requests"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "Manage your mcdreforged plugins with ease",
     "zh_cn": "轻松管理你的 MCDReforged 插件"

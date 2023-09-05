@@ -11,9 +11,7 @@
   "dependencies": {
     "mcdreforged": ">=2.0.0"
   },
-  "requirements": [
-    "mcdreforged"
-  ],
+  "requirements": [],
   "description": {
     "en_us": "A plugin can control whitelist with multi servers.",
     "zh_cn": "基于minecraft的白名单功能。"
