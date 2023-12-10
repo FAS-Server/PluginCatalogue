@@ -2553,7 +2553,7 @@ A MCDR plugin for post/teleport items
 - Plugin ID: `minecraft_command_register`
 - Plugin Name: Minecraft Command Register
 - Version: None
-  - Metadata version: 1.6.0
+  - Metadata version: 1.7.0
   - Release version: None
 - Total downloads: 0
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
@@ -2566,7 +2566,7 @@ A MCDR plugin for post/teleport items
 
 | Plugin ID | Requirement |
 | --- | --- |
-| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.11.0 |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | 2.12.0 |
 
 ### Requirements
 
@@ -2604,6 +2604,7 @@ A MCDR plugin for post/teleport items
 | 2.10.0  | 1.5.0 |
 | 2.10.1  | 1.5.1 |
 | 2.11.0  | 1.6.0 |
+| 2.12.0  | 1.7.0 |
 
 ## 安装指南
 
